@@ -1,14 +1,13 @@
-#Recerca de quatre llenguatges de programació
+# Recerca de quatre llenguatges de programació
 
 
 
 
 
 
-1 Java
+# 1 Java
 
-
-• Naixement, creadors i evolució històrica.
+1. Naixement, creadors i evolució històrica.
 
 
 El llenjautge java neix gracies a James Gosling i al seu equip de desarolladors en la enpresa Sun System alla cap als 1990 partin dun llenguatge ja creat el “C”. Al principi no es deia Java va neixe com a Green
