@@ -7,6 +7,7 @@
 
 # 1 Java
 
+
 1. **Naixement, creadors i evolució històrica.**
 
 
@@ -17,14 +18,12 @@ En 1995 es presenta la seva primera versio i en 1996 en la sortida del JDK 1.0.2
 
 
 
-
-2.**Característiques del llenguatge.**
+2. **Característiques del llenguatge.**
 
 
 Les principals característiques son, es orientat a objectes, es tipad, robust, segur, portable…. etc. 
 Tmbe per tenir el consum de recursos java utilitza el Garbageollector es un recollidor de basura que gracies a ell no tenim que preocupaqrnos del consum de recursos ja que els objectes que no fem funciona a l’ejeccucio del programa els esborra.
 Tambe redueix els errors mes comuns del altres llenjuatges com C o C++ ja que esta creat aparti del C
-
 
 
 3. **Imperatiu, declaratiu, OOP…**
