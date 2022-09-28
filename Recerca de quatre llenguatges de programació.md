@@ -1,4 +1,4 @@
-﻿Recerca de quatre llenguatges de programació
+#Recerca de quatre llenguatges de programació
 
 
 
