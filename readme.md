@@ -1,1 +1,1 @@
-# Per escriure a GitHUb en makdawn twnim que posar la extencio   .md
+# Per escriure a GitHUb en makdawn tenim que posar la extencio   .md
