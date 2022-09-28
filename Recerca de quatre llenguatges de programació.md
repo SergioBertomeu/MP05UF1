@@ -32,7 +32,7 @@ Tambe redueix els errors mes comuns del altres llenjuatges com C o C++ ja que es
 Gracies a aquesta imatge podem observa que el llenjuatge java es imperativa i OOP, direm que Java es un llenjuatge de multiples paradicmes.
 
 
-  ![alt text]()
+  ![alt text](11.png)
 
 
 
