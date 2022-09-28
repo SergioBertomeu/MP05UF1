@@ -18,7 +18,7 @@ En 1995 es presenta la seva primera versio i en 1996 en la sortida del JDK 1.0.2
 
 
 
-• Característiques del llenguatge.
+2.**Característiques del llenguatge.**
 
 
 Les principals característiques son, es orientat a objectes, es tipad, robust, segur, portable…. etc. 
@@ -27,16 +27,13 @@ Tambe redueix els errors mes comuns del altres llenjuatges com C o C++ ja que es
 
 
 
-
-
-
-◦ Imperatiu, declaratiu, OOP…
+3. **Imperatiu, declaratiu, OOP…**
 
 
 Gracies a aquesta imatge podem observa que el llenjuatge java es imperativa i OOP, direm que Java es un llenjuatge de multiples paradicmes.
 
 
-  
+  ![alt text]()
 
 
 
