@@ -95,7 +95,7 @@ Per posar un exemple podriem fer que ens sumes
     }
 
 
-}´´
+}`
 
 
 
