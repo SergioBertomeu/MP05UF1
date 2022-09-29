@@ -61,14 +61,13 @@ Els Principals avantatges del llenguatge son la portabilitat, la seva arquitectu
 Pero no tot son abantatges, tambe te inconvenients com per exemple esta limitat en les opcions 3D son limitades, gasta mes memoria ram en comparacio a altres llenguatges, es totalment dependernt de la maquina virtual JVM ja que sense ella no podrem ejecutar el programa i al ser un llenjuatge interpretat pot ser una mica mes lent en la ejecucio dels programes.
 
 
-7. **Principals entorns on es fa servir el llenguatge.
+7. **Principals entorns on es fa servir el llenguatge.**
 
 
 Els principals entors on es fa servir serien en la majoria de sistemes operatius ja que al ser multiplataforma ens serveix per a cualsevol plataforma
 
 
-8. **Exemple de codi (valoraré especialment si mostreu que ho heu implementat i
-provat)
+8. **Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat)**
 
 
 Per posar un exemple podriem fer que ens sumes
@@ -96,7 +95,7 @@ public class Suma {
 
 
 
-9. **Hola mòn (Molt fàcil de trobar)
+9. **Hola mòn (Molt fàcil de trobar)**
 
 
 
@@ -178,7 +177,7 @@ ____
 # 2 Python
 
 
-1. **Naixement, creadors i evolució històrica.
+1. **Naixement, creadors i evolució històrica.**
 
 
 El llenguatge ja fa molts de anys que el varen crea cap alla al 1989 el senyor Guido van Rossum va crea el que avui en dia coneixem pythonpero no fou fins l’any 1991 cuan es publicaria la seva primera versio del programa, despres vindria la versio 1.0 en 1994 mes tart en el 2000 es publicaria la versio 2.0 i finalment en 2008 varen treure la versio 3.0 despres de 8 anys. Despres de treure la versio 3.0 cada any i mig mes o menys an anat traent versions  com la, 3.2 febrero de 2011, 3.3 -  en septiembre de 2012, 3.4 el marzo de 2014 i aixi fins arribar a la 3.9 el 3.9 - 5 de octubre de 2020. Tot i que sempre sha actualitzat per a se compatible amb versions anteriors la versio 3 trenca la compatibilitat amb les versions aneriors.
@@ -192,23 +191,25 @@ Una de les carecteristiques mes inportants es que es multiplataforma aixo lhi do
 
 
 
-3. **Imperatiu, declaratiu, OOP…
+3. **Imperatiu, declaratiu, OOP…**
+
+
 Es imperatiu permeten la modificacio del codi amb condicions o intruccions dienli com realitza la tasca
   
 
 
-4. **Compilat, interpretat, híbrid…
+4. **Compilat, interpretat, híbrid…**
 
 
 Cuan parlem de Python parlem de llenguatje interpretat ja que tenim un interpret que ejeccuta el codi font, es podria pensar que es mes lent per ser interpretat pero en python no es aixi
 
 
-5. **Principals novetats o aportacions respecte altres llenguatges.
+5. **Principals novetats o aportacions respecte altres llenguatges.**
 
 Una aportacio davant de altres llenjuatges de programacio es que no nesesites dir-li de quin tipo son les variables, tu cuan la declares hi ha agafa els valors he interpreta si es un int, String, dooble, etc…..
 
 
-6. **Avantatges i inconvenients respecte altres llenguatges.
+6. **Avantatges i inconvenients respecte altres llenguatges.**
 
 
 Les principals aventatges serien qie es lliure i gratuit, facil de llegir, sha prent en bastanta facilitat, es multiplataforma, gran varietatd e llibreries compta amb una gran comunitat, interpretat i fortament tipat.
@@ -217,7 +218,7 @@ Les principals aventatges serien qie es lliure i gratuit, facil de llegir, sha p
 Els inconvenients mes clas serien la incompatibilitat amb la versio 2 en la 3, un alt consum de memoria, no es pot desarrolar per dispositius movils i les llibreries de terces no sempre funcionen be 
 
 
-7. **Principals entorns on es fa servir el llenguatge.
+7. **Principals entorns on es fa servir el llenguatge.**
 
 
 Els principals entorns serien Windows, linux, Mac
@@ -225,7 +226,7 @@ Els principals entorns serien Windows, linux, Mac
 
 
 
-8. **Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat)
+8. **Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat)**
 
 ```Python
 cantidad = float(input("Quina quantitat de euros vols canbiar? "))
@@ -233,14 +234,14 @@ print(f"{cantidad} en euros son {round(cantidad * 166.386)} pesetes")
 ```
 
 
-9. **Hola mòn (Molt fàcil de trobar)
+9. **Hola mòn (Molt fàcil de trobar)**
 
 ```Python
 print “Hola mòn”
 
 ```
 
-10. **Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més)
+10. **Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més)**
 
 ```Python
 print("¿Introdueix el teu nom?")
@@ -248,13 +249,15 @@ nombre = input()
 print(f"El teu nom és, {nombre}")
 ```
 
-11. **Buscar com estan les ofertes de treball a Infojobs del llenguatge.
+11. **Buscar com estan les ofertes de treball a Infojobs del llenguatge.**
+
+
 Actualment hi ha la mitad de feina que en Java (sobre un 500 ofertes de treball) i tambe es demana com a minim 2 anys de experiencia
   
 
 
 
-12. **WebGrafia
+12. **WebGrafia**
 
 https://es.wikipedia.org/wiki/Historia_de_Python
 
@@ -271,7 +274,7 @@ https://aprendepython.es/core/introduction/python/
 ___
 
 
-1. **Naixement, creadors i evolució històrica.
+1. **Naixement, creadors i evolució històrica.**
 
 
 El naixement de JavaScrip fou gracies al senyor Brendan Eich  a principi dels anys 90, ja que per aquella època comensaben a incloure formularis complexos i la velocitat paxima de internet era de 28,8 kbps, aixo era un velocitat lentisima que apenes podies carregar pagines web i nesesitaven una altra manera de carrega la informacio i sels va ocorre que podien ejecutarla en el navegado del usuari a mes de que tot ho carreges la paguina web.
@@ -282,46 +285,45 @@ Les versions de JavaScript serien la primera versio en 1995 amb el nom de Mocha 
 
 
 
-2. **Característiques del llenguatge.
+2. **Característiques del llenguatge.**
 
 
 les principals caracteristiques serien; que sexecuta a la maquina de l’usuari, es un llenguatje orientat a objectes permeten de una forma simple ordenar i reutilitza codi, es de tipatge devil ja que no cal espesificar quin tipo de dada es la variable i es de alt nivell ja que la sintaxis es mes humana i no tant en el llenjuatge d emaquina
 
 
-3. **Imperatiu, declaratiu, OOP…
+3. **Imperatiu, declaratiu, OOP…**
 
 
 JavaScript es tant imperatiu com declaratiu auxo supasa que podem programa de dues maneres diferents i ens dona moltes opcions a la manera de arriba a una solucio
 
 
 
-4. **Compilat, interpretat, híbrid…
+4. **Compilat, interpretat, híbrid…**
 
 
 El JavaScript es un llenguatge interpretat ja que transforma les linies de codi a llenjuatge maquina aixo es molt interesant per que podem executarlo en el navegado de l’usuari guanyant rapidesa com tambe es valit oer a multiplataformes
 
 
-5. **Principals novetats o aportacions respecte altres llenguatges.
+5. **Principals novetats o aportacions respecte altres llenguatges.**
 
 
 
-6. **Avantatges i inconvenients respecte altres llenguatges.
+6. **Avantatges i inconvenients respecte altres llenguatges.**
 
 
 Els avantatges serien que no cal dir-li quin tipus de dada es la variables al ser no tipat, es un llenjuatge allunyat del llenguatge maquina i es mes huma la sintaxis, al ser interpretat es mes rapit que altres llenguatjes.
 
 
-7. **Principals entorns on es fa servir el llenguatge.
+7. **Principals entorns on es fa servir el llenguatge.**
 
 
 Els entorns on es mou aques llenguatje seria en navegadors web, en el codi HTML, podem crear jocs en 2 i 3D es multiplataforma sen posible executa el codi en diferentes arquitectures.
 
 
 
-8. **Exemple de codi (valoraré especialment si mostreu que ho heu implementat i
-provat)
+8. **Exemple de codi (valoraré especialment si mostreu que ho heu implementat iprovat)**
 
-```
+```JavaScript
 <html>
 <body>
 Sumador de numeros...
@@ -339,7 +341,7 @@ Sumador de numeros...
 
 9. **Hola mòn (Molt fàcil de trobar)
 
-```
+```JavaScript
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -359,7 +361,7 @@ Sumador de numeros...
 
 10. **Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més)
 
-```
+```JavaScript
 <html>
 <body>
 <script>
@@ -373,7 +375,7 @@ Sumador de numeros...
 </html>
 ```
 
-11. **Buscar com estan les ofertes de treball a Infojobs del llenguatge.
+11. **Buscar com estan les ofertes de treball a Infojobs del llenguatge.**
 
 
 en infojobs hi han 880 ofertes de treball de moment el guanyador es java 
@@ -383,7 +385,7 @@ en infojobs hi han 880 ofertes de treball de moment el guanyador es java
 
 
 
-12. **WebGrafia
+12. **WebGrafia**
 
 
 https://uniwebsidad.com/libros/javascript/capitulo-1/breve-historia
@@ -402,7 +404,7 @@ https://cosasdigitales.com/articulos-diseno-web/javascript-programacion-declarat
 # 4 C
 
 
-1. **Naixement, creadors i evolució històrica.
+1. **Naixement, creadors i evolució històrica.**
 
 
 El llenguatge C te ja més de 50 anys i es la base de molts de llenguatges molt coneguts com ara; Java, C++. Tot va començar cap allà a l'any 1970 gràcies a Dennis Ritchie junt a Brian Kernighan en els laboratoris Bell,  comencen  a crear el llenguatge C. El que es volia aconseguir era un llenjuatge eficient i rapit i que puges evoluciona i el que sels va ocorre va ser unir el llenjuatge BCPL rapid i sencill amb el B que era molt mes lent i aixi va neixe el llenjuatge C que va reescrivir completament UNIX.
@@ -413,21 +415,21 @@ les versions pasen de C# 1.0 que era molt basic i pesat, en 2005 surt la versió
 
 
 
-2. **Característiques del llenguatge.
+2. **Característiques del llenguatge.**
 
 
 Les caracteristiques son varies com per exe,ple; el llenguatje es estructurat, la programacioio es de nivell mig podent teni les bentatges del baix i alt nivell, no depent del hardware, podent aixi migrar a altres Sistemes, ames no es un llenjuatge per a una tasca espesifica, es poden crear jocs, fulles de calcul, sistemes operatius.
 
 
 
-3. **Imperatiu, declaratiu, OOP…
+3. **Imperatiu, declaratiu, OOP…**
 
 
 El llenjuatge C es imeratiu lo que significa que te un estil estructurat de programacio
 per evita instruccions de salto de afegeixen complexitat. Com tambe desglosa les tasques en trosos de codi més menuts per poder reutilitza en altres programes
 
 
-4. **Compilat, interpretat, híbrid…
+4. **Compilat, interpretat, híbrid…**
 
 
 El llenguatge és compilat això vol dir que tenen que convertir el codi a codi màquina avans de ser ejecutat el cual por ser una mica mes lent a l’hora del desenvolupament del codi pero molt mes rapit a l’ora de corre el programa final.
@@ -435,13 +437,13 @@ El llenguatge és compilat això vol dir que tenen que convertir el codi a codi 
 
 
 
-5. **Principals novetats o aportacions respecte altres llenguatges.
+5. **Principals novetats o aportacions respecte altres llenguatges.**
 
 
 En novetats ja no es molt novedos ja que aquest llengutge ja te 50 anys pero ha format la base de llenguatjes com Java, C++ aiixi podem dir que a aportat la base del llenjuatges mes important davui en dia i podria ser el llenguatje mes versatiil de tots ja que sutilitza per desarrola sistemes grans i mitjans gracies a la traduccio directa al llenjuatge maquina
 
 
-6. **Avantatges i inconvenients respecte altres llenguatges.
+6. **Avantatges i inconvenients respecte altres llenguatges.**
 
 
 Les principals abantages serien la eficiencia que te fent operacions directes al sistema operatiu, es miltiplataforma en totes les abantatges que aixo comporta, es un llenguatge que te una molt bona gestio en les bases de dades podent consultar almacena i actualitza dades
@@ -454,7 +456,7 @@ Els principals inconvenients serien la dificultat en laprenentatge i poder domin
 
 
 
-7. **Principals entorns on es fa servir el llenguatge.
+7. **Principals entorns on es fa servir el llenguatge.**
 
 
 En el kernel de de Windows podriem trobarlo en Mac tambe esyta present en el nucli OS X en linux, com tambe enb les bases de dades, movils…..
@@ -462,9 +464,9 @@ En el kernel de de Windows podriem trobarlo en Mac tambe esyta present en el nuc
 
 
 
-8. **Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat)
+8. **Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat)**
 
-```
+```c
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -489,9 +491,9 @@ int main (void)
 ```
 
   
-9. **Hola mòn (Molt fàcil de trobar)
+9. **Hola mòn (Molt fàcil de trobar)**
 
-```
+```c
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -508,9 +510,9 @@ return 0;
 ```
 
 
-10. **Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més)
+10. **Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més)**
 
-```
+```c
 #include <stdio.h>
 #include <string.h>
 
@@ -527,14 +529,14 @@ int main () {
 
 
 
-11. **Buscar com estan les ofertes de treball a Infojobs del llenguatge.
+11. **Buscar com estan les ofertes de treball a Infojobs del llenguatge.**
 
 
 Doncs per estrany que em paregui en infojobs hi han 1974 ofertes de treball, es el que té més ofertes de treball en diferencia
   
 
 
-12. **WebGrafia
+12. **WebGrafia**
 https://openwebinars.net/blog/que-es-c/
 
 
