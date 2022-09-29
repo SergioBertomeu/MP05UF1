@@ -381,7 +381,7 @@ Sumador de numeros...
 en infojobs hi han 880 ofertes de treball de moment el guanyador es java 
 
 
-  ![alt text](infoJSrip.png)
+  ![alt text](infoJScrip.png)
 
 
 
@@ -537,6 +537,8 @@ Doncs per estrany que em paregui en infojobs hi han 1974 ofertes de treball, es 
 ![alt text](infoc.png)
 
 12. **WebGrafia**
+
+
 https://openwebinars.net/blog/que-es-c/
 
 
