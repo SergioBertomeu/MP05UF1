@@ -123,8 +123,7 @@ public class Suma {
 
 
 
-
-◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més)
+9. **Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més)**
 
 
 import java.util.Scanner;
@@ -158,7 +157,7 @@ public class Suma {
 }
 
 
-• Buscar com estan les ofertes de treball a Infojobs del llenguatge.
+10. **Buscar com estan les ofertes de treball a Infojobs del llenguatge.**
 
 
 Hi ha molta feina en infojobs en concret en surten mes de mil ofertes de trebal lo que la majoria busca gent en com a minim 2 anys de experiencia
@@ -166,7 +165,7 @@ Hi ha molta feina en infojobs en concret en surten mes de mil ofertes de trebal 
 
 
 
-• WebGrafia
+11. **WebGrafia**
 
 
 https://ca.wikipedia.org/wiki/Java_(llenguatge_de_programaci%C3%B3)
