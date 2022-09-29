@@ -226,7 +226,7 @@ Els principals entorns serien Windows, linux, Mac
 
 8. **Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat)
 
-```
+```Python
 cantidad = float(input("Quina quantitat de euros vols canbiar? "))
 print(f"{cantidad} en euros son {round(cantidad * 166.386)} pesetes")
 ```
@@ -234,14 +234,14 @@ print(f"{cantidad} en euros son {round(cantidad * 166.386)} pesetes")
 
 9. **Hola mòn (Molt fàcil de trobar)
 
-```
+```Python
 print “Hola mòn”
 
 ```
 
 10. **Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més)
 
-```
+```Python
 print("¿Introdueix el teu nom?")
 nombre = input()
 print(f"El teu nom és, {nombre}")
