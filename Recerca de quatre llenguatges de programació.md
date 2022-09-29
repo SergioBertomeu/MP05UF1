@@ -148,13 +148,9 @@ public class Suma {
 
 
     }
+
+}  
 ```
-
-
-
-
-
-}
 
 
 11. **Buscar com estan les ofertes de treball a Infojobs del llenguatge.**
@@ -290,54 +286,46 @@ Les versions de JavaScript serien la primera versio en 1995 amb el nom de Mocha 
 
 
 
-
-
-
-• Característiques del llenguatge.
+2. **Característiques del llenguatge.
 
 
 les principals caracteristiques serien; que sexecuta a la maquina de l’usuari, es un llenguatje orientat a objectes permeten de una forma simple ordenar i reutilitza codi, es de tipatge devil ja que no cal espesificar quin tipo de dada es la variable i es de alt nivell ja que la sintaxis es mes humana i no tant en el llenjuatge d emaquina
 
 
-◦ Imperatiu, declaratiu, OOP…
+3. **Imperatiu, declaratiu, OOP…
 
 
 JavaScript es tant imperatiu com declaratiu auxo supasa que podem programa de dues maneres diferents i ens dona moltes opcions a la manera de arriba a una solucio
 
 
 
-
-◦ Compilat, interpretat, híbrid…
+4. **Compilat, interpretat, híbrid…
 
 
 El JavaScript es un llenguatge interpretat ja que transforma les linies de codi a llenjuatge maquina aixo es molt interesant per que podem executarlo en el navegado de l’usuari guanyant rapidesa com tambe es valit oer a multiplataformes
 
 
-◦ Principals novetats o aportacions respecte altres llenguatges.
+5. **Principals novetats o aportacions respecte altres llenguatges.
 
 
 
-
-
-
-◦ Avantatges i inconvenients respecte altres llenguatges.
+6. **Avantatges i inconvenients respecte altres llenguatges.
 
 
 Els avantatges serien que no cal dir-li quin tipus de dada es la variables al ser no tipat, es un llenjuatge allunyat del llenguatge maquina i es mes huma la sintaxis, al ser interpretat es mes rapit que altres llenguatjes.
 
 
-• Principals entorns on es fa servir el llenguatge.
+7. **Principals entorns on es fa servir el llenguatge.
 
 
 Els entorns on es mou aques llenguatje seria en navegadors web, en el codi HTML, podem crear jocs en 2 i 3D es multiplataforma sen posible executa el codi en diferentes arquitectures.
 
 
 
-
-• Exemple de codi (valoraré especialment si mostreu que ho heu implementat i
+8. **Exemple de codi (valoraré especialment si mostreu que ho heu implementat i
 provat)
 
-
+```
 <html>
 <body>
 Sumador de numeros...
@@ -349,14 +337,14 @@ Sumador de numeros...
 </script>
 </body>
 </html>
+```
 
 
 
+9. **Hola mòn (Molt fàcil de trobar)
 
-◦ Hola mòn (Molt fàcil de trobar)
-
-
-´´´<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -371,17 +359,11 @@ Sumador de numeros...
 
 </body>
 </html>
+```
 
+10. **Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més)
 
-
-
-
-
-
-
-◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més)
-
-
+```
 <html>
 <body>
 <script>
@@ -393,9 +375,9 @@ Sumador de numeros...
 </script>
 </body>
 </html>
+```
 
-
-• Buscar com estan les ofertes de treball a Infojobs del llenguatge.
+11. **Buscar com estan les ofertes de treball a Infojobs del llenguatge.
 
 
 en infojobs hi han 880 ofertes de treball de moment el guanyador es java 
@@ -405,7 +387,7 @@ en infojobs hi han 880 ofertes de treball de moment el guanyador es java
 
 
 
-• WebGrafia
+12. **WebGrafia
 
 
 https://uniwebsidad.com/libros/javascript/capitulo-1/breve-historia
@@ -421,10 +403,10 @@ https://cosasdigitales.com/articulos-diseno-web/javascript-programacion-declarat
 
 
 
-4 C
+# 4 C
 
 
-• Naixement, creadors i evolució històrica.
+1. **Naixement, creadors i evolució històrica.
 
 
 El llenguatge C te ja més de 50 anys i es la base de molts de llenguatges molt coneguts com ara; Java, C++. Tot va començar cap allà a l'any 1970 gràcies a Dennis Ritchie junt a Brian Kernighan en els laboratoris Bell,  comencen  a crear el llenguatge C. El que es volia aconseguir era un llenjuatge eficient i rapit i que puges evoluciona i el que sels va ocorre va ser unir el llenjuatge BCPL rapid i sencill amb el B que era molt mes lent i aixi va neixe el llenjuatge C que va reescrivir completament UNIX.
@@ -435,26 +417,21 @@ les versions pasen de C# 1.0 que era molt basic i pesat, en 2005 surt la versió
 
 
 
-• Característiques del llenguatge.
+2. **Característiques del llenguatge.
 
 
 Les caracteristiques son varies com per exe,ple; el llenguatje es estructurat, la programacioio es de nivell mig podent teni les bentatges del baix i alt nivell, no depent del hardware, podent aixi migrar a altres Sistemes, ames no es un llenjuatge per a una tasca espesifica, es poden crear jocs, fulles de calcul, sistemes operatius.
 
 
 
-
-
-
-
-
-◦ Imperatiu, declaratiu, OOP…
+3. **Imperatiu, declaratiu, OOP…
 
 
 El llenjuatge C es imeratiu lo que significa que te un estil estructurat de programacio
 per evita instruccions de salto de afegeixen complexitat. Com tambe desglosa les tasques en trosos de codi més menuts per poder reutilitza en altres programes
 
 
-◦ Compilat, interpretat, híbrid…
+4. **Compilat, interpretat, híbrid…
 
 
 El llenguatge és compilat això vol dir que tenen que convertir el codi a codi màquina avans de ser ejecutat el cual por ser una mica mes lent a l’hora del desenvolupament del codi pero molt mes rapit a l’ora de corre el programa final.
@@ -462,13 +439,13 @@ El llenguatge és compilat això vol dir que tenen que convertir el codi a codi 
 
 
 
-◦ Principals novetats o aportacions respecte altres llenguatges.
+5. **Principals novetats o aportacions respecte altres llenguatges.
 
 
 En novetats ja no es molt novedos ja que aquest llengutge ja te 50 anys pero ha format la base de llenguatjes com Java, C++ aiixi podem dir que a aportat la base del llenjuatges mes important davui en dia i podria ser el llenguatje mes versatiil de tots ja que sutilitza per desarrola sistemes grans i mitjans gracies a la traduccio directa al llenjuatge maquina
 
 
-◦ Avantatges i inconvenients respecte altres llenguatges.
+6. **Avantatges i inconvenients respecte altres llenguatges.
 
 
 Les principals abantages serien la eficiencia que te fent operacions directes al sistema operatiu, es miltiplataforma en totes les abantatges que aixo comporta, es un llenguatge que te una molt bona gestio en les bases de dades podent consultar almacena i actualitza dades
@@ -481,7 +458,7 @@ Els principals inconvenients serien la dificultat en laprenentatge i poder domin
 
 
 
-• Principals entorns on es fa servir el llenguatge.
+7. **Principals entorns on es fa servir el llenguatge.
 
 
 En el kernel de de Windows podriem trobarlo en Mac tambe esyta present en el nucli OS X en linux, com tambe enb les bases de dades, movils…..
@@ -489,10 +466,9 @@ En el kernel de de Windows podriem trobarlo en Mac tambe esyta present en el nuc
 
 
 
-• Exemple de codi (valoraré especialment si mostreu que ho heu implementat i
-provat)
+8. **Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat)
 
-
+```
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -514,15 +490,12 @@ int main (void)
 
 
   }
-
+```
 
   
+9. **Hola mòn (Molt fàcil de trobar)
 
-
-
-◦ Hola mòn (Molt fàcil de trobar)
-
-
+```
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -536,21 +509,12 @@ return 0;
 
 
 }
+```
 
 
+10. **Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més)
 
-
-  
-
-
-
-
-
-◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més)
-
-
-
-
+```
 #include <stdio.h>
 #include <string.h>
 
@@ -563,43 +527,18 @@ int main () {
    system("pause");
    return 0;
 }
-  
+```  
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-• Buscar com estan les ofertes de treball a Infojobs del llenguatge.
+11. **Buscar com estan les ofertes de treball a Infojobs del llenguatge.
 
 
 Doncs per estrany que em paregui en infojobs hi han 1974 ofertes de treball, es el que té més ofertes de treball en diferencia
   
 
 
-
-
-
-• WebGrafia
+12. **WebGrafia
 https://openwebinars.net/blog/que-es-c/
 
 
