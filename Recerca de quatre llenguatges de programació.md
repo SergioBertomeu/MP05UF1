@@ -148,7 +148,7 @@ public class Suma {
 
 
     }
-``
+```
 
 
 
@@ -185,10 +185,9 @@ https://www.infojobs.net/ofertas-trabajo/java
 
 
 
-2 Python
+# 2 Python
 
-
-• Naixement, creadors i evolució històrica.
+1. **Naixement, creadors i evolució històrica.
 
 
 El llenguatge ja fa molts de anys que el varen crea cap alla al 1989 el senyor Guido van Rossum va crea el que avui en dia coneixem pythonpero no fou fins l’any 1991 cuan es publicaria la seva primera versio del programa, despres vindria la versio 1.0 en 1994 mes tart en el 2000 es publicaria la versio 2.0 i finalment en 2008 varen treure la versio 3.0 despres de 8 anys. Despres de treure la versio 3.0 cada any i mig mes o menys an anat traent versions  com la, 3.2 febrero de 2011, 3.3 -  en septiembre de 2012, 3.4 el marzo de 2014 i aixi fins arribar a la 3.9 el 3.9 - 5 de octubre de 2020. Tot i que sempre sha actualitzat per a se compatible amb versions anteriors la versio 3 trenca la compatibilitat amb les versions aneriors.
@@ -196,29 +195,29 @@ El llenguatge ja fa molts de anys que el varen crea cap alla al 1989 el senyor G
 
 
 
-• Característiques del llenguatge.
+2. **Característiques del llenguatge.
 Una de les carecteristiques mes inportants es que es multiplataforma aixo lhi dona un plus de aprovacio per part de la comunitat de progarmadors. Esta orientat a objectes. Una altra carecteristica es que no cal tenit un gran coneixement de python per a crear pagines web ja que es relativament facil de programat, com tambe podrem crear scrips o software per al SO windows 
 
 
 
 
-◦ Imperatiu, declaratiu, OOP…
+3. **Imperatiu, declaratiu, OOP…
 Es imperatiu permeten la modificacio del codi amb condicions o intruccions dienli com realitza la tasca
   
 
 
-
-◦ Compilat, interpretat, híbrid…
+4. **Compilat, interpretat, híbrid…
 
 
 Cuan parlem de Python parlem de llenguatje interpretat ja que tenim un interpret que ejeccuta el codi font, es podria pensar que es mes lent per ser interpretat pero en python no es aixi
 
 
-◦ Principals novetats o aportacions respecte altres llenguatges.
+5. **Principals novetats o aportacions respecte altres llenguatges.
+
 Una aportacio davant de altres llenjuatges de programacio es que no nesesites dir-li de quin tipo son les variables, tu cuan la declares hi ha agafa els valors he interpreta si es un int, String, dooble, etc…..
 
 
-◦ Avantatges i inconvenients respecte altres llenguatges.
+6. **Avantatges i inconvenients respecte altres llenguatges.
 
 
 Les principals aventatges serien qie es lliure i gratuit, facil de llegir, sha prent en bastanta facilitat, es multiplataforma, gran varietatd e llibreries compta amb una gran comunitat, interpretat i fortament tipat.
@@ -227,7 +226,7 @@ Les principals aventatges serien qie es lliure i gratuit, facil de llegir, sha p
 Els inconvenients mes clas serien la incompatibilitat amb la versio 2 en la 3, un alt consum de memoria, no es pot desarrolar per dispositius movils i les llibreries de terces no sempre funcionen be 
 
 
-• Principals entorns on es fa servir el llenguatge.
+7. **Principals entorns on es fa servir el llenguatge.
 
 
 Els principals entorns serien Windows, linux, Mac
@@ -235,33 +234,37 @@ Els principals entorns serien Windows, linux, Mac
 
 
 
-• Exemple de codi (valoraré especialment si mostreu que ho heu implementat i
-provat)
+8. **Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat)
+
+```
 cantidad = float(input("Quina quantitat de euros vols canbiar? "))
 print(f"{cantidad} en euros son {round(cantidad * 166.386)} pesetes")
+```
 
 
-◦ Hola mòn (Molt fàcil de trobar)
+9. **Hola mòn (Molt fàcil de trobar)
 
-
+```
 print “Hola mòn”
 
+```
 
-◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més)
+10. **Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més)
 
-
+```
 print("¿Introdueix el teu nom?")
 nombre = input()
 print(f"El teu nom és, {nombre}")
+```
 
-
-• Buscar com estan les ofertes de treball a Infojobs del llenguatge.
+11. **Buscar com estan les ofertes de treball a Infojobs del llenguatge.
 Actualment hi ha la mitad de feina que en Java (sobre un 500 ofertes de treball) i tambe es demana com a minim 2 anys de experiencia
   
 
 
 
-• WebGrafia
+12. **WebGrafia
+
 https://es.wikipedia.org/wiki/Historia_de_Python
 
 
@@ -273,10 +276,10 @@ https://aprendepython.es/core/introduction/python/
 
 
 
-3 JavaScript
+# 3 JavaScript
 
 
-• Naixement, creadors i evolució històrica.
+1. **Naixement, creadors i evolució històrica.
 
 
 El naixement de JavaScrip fou gracies al senyor Brendan Eich  a principi dels anys 90, ja que per aquella època comensaben a incloure formularis complexos i la velocitat paxima de internet era de 28,8 kbps, aixo era un velocitat lentisima que apenes podies carregar pagines web i nesesitaven una altra manera de carrega la informacio i sels va ocorre que podien ejecutarla en el navegado del usuari a mes de que tot ho carreges la paguina web.
