@@ -38,13 +38,13 @@ Gracies a aquesta imatge podem observa que el llenjuatge java es imperativa i OO
 Java al ser de programacio imperativa podem varaia la execucio del programa gracies a les variables, instruccions i condicions per poder arriba al resultat deseat
 
 
-4. **Compilat, interpretat, híbrid…
+4. **Compilat, interpretat, híbrid…**
 
 
 Diriem que Java es parcialment compilat ja que compila a un llenjuatge inermitg el bytecode que despres interpreta cualsevol plataforma sense la nesesitat de crar varios executables. Si volem complila tambe nesesitarem el JRE que es el que sencarrega de interplreta el bytecode
 
 
-5. **Principals novetats o aportacions respecte altres llenguatges.
+5. **Principals novetats o aportacions respecte altres llenguatges.**
 
 
 Java a anat evolucionant en els anys, Desde els seus inicis en l’any 1996 an anat sortin versions com el Java5, Java6, Java7 i la versio actual la Java8 i aquestes version an anat inplementan millores i nous soports a scripts amb Java6 o noves llibreries en Java7. Una de les principals abantatges es que es de codi obert i aixo el fa ser mes popular entre la comunitat de programadros
@@ -52,7 +52,7 @@ Java a anat evolucionant en els anys, Desde els seus inicis en l’any 1996 an a
 
 
 
-6. **Avantatges i inconvenients respecte altres llenguatges.
+6. **Avantatges i inconvenients respecte altres llenguatges.**
 
 
 Els Principals avantatges del llenguatge son la portabilitat, la seva arquitectura neutra i la seva simplicitat. Aquestes sirien les tres  mes importants i que a portat a Java al mes alt en l’escala de llenjuatges mes usuts durant moltisims anys deguits, 
