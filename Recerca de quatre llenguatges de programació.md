@@ -177,6 +177,7 @@ ____
 
 # 2 Python
 
+
 1. **Naixement, creadors i evolució històrica.
 
 
@@ -267,6 +268,7 @@ https://aprendepython.es/core/introduction/python/
 
 
 # 3 JavaScript
+___
 
 
 1. **Naixement, creadors i evolució històrica.
