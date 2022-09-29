@@ -196,7 +196,7 @@ Una de les carecteristiques mes inportants es que es multiplataforma aixo lhi do
 
 Es imperatiu permeten la modificacio del codi amb condicions o intruccions dienli com realitza la tasca
   
-
+![alt text](Design-Elements-Mind-Map-1-min.png)
 
 4. **Compilat, interpretat, híbrid…**
 
@@ -488,7 +488,9 @@ int main (void)
 
 
   }
+  
 ```
+![alt text](numeroc.png)
 
   
 9. **Hola mòn (Molt fàcil de trobar)**
