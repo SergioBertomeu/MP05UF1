@@ -151,7 +151,7 @@ public class Suma {
 
 Hi ha molta feina en infojobs en concret en surten mes de mil ofertes de trebal lo que la majoria busca gent en com a minim 2 anys de experiencia
   
-
+![alt text](infopyton.png)
 
 
 12. **WebGrafia**
@@ -254,7 +254,7 @@ print(f"El teu nom és, {nombre}")
 
 Actualment hi ha la mitad de feina que en Java (sobre un 500 ofertes de treball) i tambe es demana com a minim 2 anys de experiencia
   
-
+![alt text](infoJScrip.png)
 
 
 12. **WebGrafia**
@@ -381,7 +381,7 @@ Sumador de numeros...
 en infojobs hi han 880 ofertes de treball de moment el guanyador es java 
 
 
-  
+  ![alt text](infoc.png)
 
 
 
