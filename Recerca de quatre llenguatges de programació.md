@@ -35,7 +35,6 @@ Gracies a aquesta imatge podem observa que el llenjuatge java es imperativa i OO
   ![alt text](11.png)
 
 
-
 Java al ser de programacio imperativa podem varaia la execucio del programa gracies a les variables, instruccions i condicions per poder arriba al resultat deseat
 
 
@@ -74,8 +73,7 @@ provat)
 
 Per posar un exemple podriem fer que ens sumes
 
-```
-java
+```java
 
 public class Suma {
     public static void main(String[] args) {
@@ -89,11 +87,7 @@ public class Suma {
 
         System.out.println(a + b );
 
-
-
-
     }
-
 
 }
 ```
@@ -106,7 +100,7 @@ public class Suma {
 
 
 
-```
+```java
 public class Suma {
 
 
