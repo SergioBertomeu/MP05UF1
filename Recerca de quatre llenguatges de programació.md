@@ -119,7 +119,7 @@ public class Suma {
 
 10. **Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més)**
 
-```
+```java
 import java.util.Scanner;
 
 
