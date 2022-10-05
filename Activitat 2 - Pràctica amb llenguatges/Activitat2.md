@@ -109,21 +109,25 @@ https://go.dev/play/
 
 
 
-#PYTHON d6
+# PYTHON d6
 
-
-``` import random
+``` 
+import random
  
 numero1 = random.randint(0,10)
 
-print ('El numero que has obtingut és ',numero1 ```
+print ('El numero que has obtingut és ',numero1 
+```
 
 
-Obrim un document nou on escrivim el codi font amb la funció per realitzar el programa del dau.
+1. **Obrim un document nou on escrivim el codi font amb la funció per realitzar el programa del dau.**
 
 Guardem el document amb extensió del llenguatge codi font que untilitzem, en aquest cas és llenguatge Python.El document serà d6_Python.py.
 
-Obrim el terminal de la carpeta on està el document amb el codi que volem executar.
+![alt text](fotos/Selecció_080.png)
+
+
+2. **Obrim el terminal de la carpeta on està el document amb el codi que volem executar.**
 
 Al intentar executar l'arxiu ens dóna error i demana que instal·lem el Python.
 
@@ -132,6 +136,39 @@ Instal·lem l'extensió python
 Un cop tenim l'extensió de Python instal·lada introduim el següent comandament : ``` python3 d6_Python.py``` i obtenim el resultat del programa.
 
 
+![alt text](fotos/Selecció_081.png)
 
 
-** JAVA d6
+3. **Descriviu com passar de codi font a codi objecte.**
+
+per passar de codi font a codi objecte introduïm la comanda: ```pyhton3d6_Python.py```
+
+4. **Mostreu les extensions dels fitxers de codi font i codi objecte.**
+
+![alt text](fotos/Selecció_082.png)
+
+5. **Ventatges i desventatges llenguatge interpretat**
+
+Pros
+És independent de la màquina i sistema operatiuc, es poden executar en qualsevol plataforma.
+Es pot modificar el codi mentre s'executa.
+Ocupen menys lloc en la memòria
+L'entorn de treball s'encarrega de que el hardware executi les instruccions.
+Molt emprat en desenvolupament web i en electrònica.
+
+Inconvenients
+
+La alta portabilidad afecta a la velocita al executar el codi.
+Difícils de depurar.
+Requereix d'un software per interpretar les instruccions del procesador.
+No todos los software es troben disponibles en totes les plataformes.
+
+
+
+
+
+
+
+
+# JAVA d6
+
