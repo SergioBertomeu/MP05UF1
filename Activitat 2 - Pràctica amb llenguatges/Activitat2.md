@@ -44,12 +44,10 @@ Guardem l’arxiu i obrim la terminal i al fer el build o el run em donava error
 
 
 
-
-
 El que he fet ha sigut instal·lar el "golang-go" i ara si l'he pogut executar creant l'executable amb build
 
 
-
+![alt text](fotos/Selecció_075.png)
 
 
 
@@ -66,15 +64,17 @@ El que he fet ha sigut instal·lar el "golang-go" i ara si l'he pogut executar c
 Per poder passar de codi font a codi objecte el que farem sera la comanda “go build dado.go”
 
 
-
+![alt text](fotos/Selecció_076.png)
 
 
 3. **Mostreu les extensions dels fitxers de codi font i codi objecte.**
 
 
 
+![alt text](fotos/Selecció_076.png)
 
-● Expliqueu els avantatges d’utilitzar un llenguatge compilat i els punts febles.
+
+4.  **Expliqueu els avantatges d’utilitzar un llenguatge compilat i els punts febles.**
 
 Unes de les avantatges serien; La pròpia correcció dels errors en la compilació, ja que ens avisa abans de crear l'executable els erros que hi han. L'execució és molt més ràpida pel fet que no passa d'instrucció a instrucció executa tot el bloc una volta compilat.
 
@@ -84,30 +84,34 @@ Els punts febles serien; No podem corregir errors fins que no acabi de compilar,
 
 
 
-● Busqueu 3 IDEs de desenvolupament pel llenguatge.
+5. **Busqueu 3 IDEs de desenvolupament pel llenguatge.**
+
+
 Els IDEs serien:
 
 Visual studio code
 https://code.visualstudio.com/
 
-
+![alt text](fotos/Selecció_074.png)
 
 Netbeans
 https://netbeans.apache.org/
 
-
+![alt text](fotos/Selecció_078.png)
 
 Aquest és online
 
 go.dev
 https://go.dev/play/
 
+![alt text](fotos/Selecció_079.png)
 
 
 
 
+#PYTHON d6
 
-** PYTHON d6
+
 ``` import random
  
 numero1 = random.randint(0,10)
