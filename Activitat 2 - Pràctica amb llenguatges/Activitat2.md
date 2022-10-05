@@ -55,6 +55,8 @@ El que he fet ha sigut instal·lar el "golang-go" i ara si l'he pogut executar c
 
 
 2. **Descriviu com passar de codi font a codi objecte.**
+
+
 Per poder passar de codi font a codi objecte el que farem sera la comanda “go build dado.go”
 
 
