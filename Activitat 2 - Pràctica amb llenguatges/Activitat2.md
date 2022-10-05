@@ -39,7 +39,7 @@ l'extensio és importantíssima, després entrem a l'arxiu i posem el codi.
 ```
 Guardem l’arxiu i obrim la terminal i al fer el build o el run em donava error 
 
-![alt text](Selecció_074.png)
+![alt text](/fotos/Selecció_074.png)
 
 
 
