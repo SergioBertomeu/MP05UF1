@@ -170,5 +170,135 @@ No todos los software es troben disponibles en totes les plataformes.
 
 
 
-# JAVA d6
+** JAVA d6
+
+Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament
+escriureu el programa en un fitxer de text que sigui el codi font, el codi font
+l’adjunteu dins el document.
+
+
+```
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Random;
+import java.util.Scanner;
+
+public class DauSisCares {
+
+    public static void main(String arg[]) {
+        List<Integer> numbers = new ArrayList<>(6);
+        for (int i = 1; i < 7; i++) {
+            numbers.add(i);
+        }
+
+// Instanciamos la clase Random
+        Random random = new Random();
+
+// Mientras queden cartas en el mazo (en la lista de numbers)
+        while (numbers.size() > 1) {
+            // Elegimos un índice al azar, entre 0 y el número de cartas que quedan por sacar
+            int randomIndex = random.nextInt(numbers.size());
+
+            // Damos la carta al jugador (sacamos el número por pantalla)
+            System.out.println("Els resultat de la teva tirada, és " + numbers.get(randomIndex));
+
+            // Y eliminamos la carta del mazo (la borramos de la lista)
+            numbers.remove(randomIndex);
+        }
+    }
+}
+
+
+```
+
+2. **Descriviu com passar de codi font a codi objecte.**
+
+Per executar un programa Java, primer hem de compilar el programa. Llavor necessitem el openjdk-18 (Java Development Kit) per compilar i executar programes Java.
+
+El primer que farem serà instal·lar el openjdk-18 ja que estem programa en la versió 18 sudo apt install openjdk-18-jre-headless
+
+
+
+Molt bé ara passem al IntelIj i creem l'arxiu amb extensió .jar d'aquesta manera només tenim el Java Development Kit podrem executar el .jar en qualsevol sistema operatiu SO
+
+Anem a file Project Structure
+
+
+Artifacts  i seleccionem el nom del nostre projecte i li donem al ok
+
+
+
+
+I carregem el projecte al transformador JAR
+
+
+Una volta sap on està la ruta de l'arxiu anem a la pestanya Build i Build Artifacs
+
+
+
+
+I seleccionem en Action Build
+
+
+
+ I ja tenim el nostre programa preparat per a ser executat amb qualsevol SO
+
+
+Finalment executem el programa amb la comanda java -jar PrimerProjecte.jar
+
+
+
+
+
+
+
+
+
+
+3. **Mostreu les extensions dels fitxers de codi font i codi objecte.**
+
+
+
+
+
+
+![alt text](fotos/Selecció_076.png)
+
+
+4.  **Expliqueu els avantatges d’utilitzar un llenguatge màquina virtual i els punts febles.**
+
+Els avantatges serien la portabilitat entre diferents SO mantenint tot el codi igual que l'encapsulat, ja que tot allò necessari per al seu funcionament dins d'un entorn que és independent, tant del sistema operatiu des de la qual és creada, com amb altres màquines virtuals diferents del mateix servidor, com també un alt nivell de seguretat perquè una màquina virtual s'aïlla del mateix sistema operatiu en què està instal·lada, evitant qualsevol problema de seguretat, com pot ser malware. Evitant afecta el servidor, equip o altres màquines virtuals.
+
+Però no tot són avantatges, també té inconvenients com per exemple la disminució del rendiment, ja que el rendiment serà inferior al del mateix equip o servidor físic on s'instal·la, Complexitat d'ús perquè on hi ha connexions amb xarxes diferents i s'utilitza una gran varietat de maquinari, pot arribar a ser tediós configurar una màquina. Al ser un llenguatge interpretat pot ser una mica més lent en l'ejecucio dels programes.
+
+
+
+
+
+5. **Busqueu 3 IDEs de desenvolupament pel llenguatge.**
+
+
+Els IDEs serien:
+
+IntelIj
+https://code.visualstudio.com/
+
+
+
+Netbeans
+https://netbeans.apache.org/
+
+![alt text](fotos/Selecció_078.png)
+
+Aquest és online
+
+Eclipse
+
+https://www.eclipse.org/ide/
+
+
+
+
+
+
 
