@@ -225,7 +225,7 @@ Molt bé ara passem al IntelIj i creem l'arxiu amb extensió .jar d'aquesta mane
 
 Anem a file Project Structure
 
-![alt text](Selecció_108.png)
+![alt text](fotos/Selecció_108.png)
 
 
 Artifacts  i seleccionem el nom del nostre projecte i li donem al ok
