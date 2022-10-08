@@ -170,7 +170,7 @@ No todos los software es troben disponibles en totes les plataformes.
 
 
 
-** JAVA d6
+**JAVA d6**
 
 Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament
 escriureu el programa en un fitxer de text que sigui el codi font, el codi font
@@ -218,51 +218,55 @@ Per executar un programa Java, primer hem de compilar el programa. Llavor necess
 El primer que farem serà instal·lar el openjdk-18 ja que estem programa en la versió 18 sudo apt install openjdk-18-jre-headless
 
 
+![alt text](fotos/Selecció_107.png)
+
 
 Molt bé ara passem al IntelIj i creem l'arxiu amb extensió .jar d'aquesta manera només tenim el Java Development Kit podrem executar el .jar en qualsevol sistema operatiu SO
 
 Anem a file Project Structure
 
+![alt text](Selecció_108.png)
+
 
 Artifacts  i seleccionem el nom del nostre projecte i li donem al ok
 
-
+![alt text](Selecció_109.png)
 
 
 I carregem el projecte al transformador JAR
 
+![alt text](Selecció_110.png)
+
 
 Una volta sap on està la ruta de l'arxiu anem a la pestanya Build i Build Artifacs
 
-
+![alt text](Selecció_111.png)
 
 
 I seleccionem en Action Build
 
+![alt text](Selecció_112.png)
 
 
  I ja tenim el nostre programa preparat per a ser executat amb qualsevol SO
 
 
+![alt text](Selecció_113.png)
+
 Finalment executem el programa amb la comanda java -jar PrimerProjecte.jar
 
 
-
-
-
-
+![alt text](Selecció_114.png)
 
 
 
 
 3. **Mostreu les extensions dels fitxers de codi font i codi objecte.**
 
+![alt text](Selecció_115.png)
 
 
 
-
-
-![alt text](fotos/Selecció_076.png)
 
 
 4.  **Expliqueu els avantatges d’utilitzar un llenguatge màquina virtual i els punts febles.**
@@ -281,7 +285,7 @@ Però no tot són avantatges, també té inconvenients com per exemple la dismin
 Els IDEs serien:
 
 IntelIj
-https://code.visualstudio.com/
+![alt text](Selecció_116.png)
 
 
 
@@ -294,7 +298,7 @@ Aquest és online
 
 Eclipse
 
-https://www.eclipse.org/ide/
+![alt text](Selecció_117.png)
 
 
 
