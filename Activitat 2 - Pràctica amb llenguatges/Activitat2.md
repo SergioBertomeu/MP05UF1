@@ -285,18 +285,26 @@ Però no tot són avantatges, també té inconvenients com per exemple la dismin
 Els IDEs serien:
 
 IntelIj
+
+https://www.jetbrains.com/es-es/idea/
+
+
+
 ![alt text](fotos/Selecció_116.png)
 
 
 
 Netbeans
+
 https://netbeans.apache.org/
 
 ![alt text](fotos/Selecció_078.png)
 
-Aquest és online
+
 
 Eclipse
+
+https://www.eclipse.org/ide/
 
 ![alt text](fotos/Selecció_117.png)
 
