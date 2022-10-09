@@ -170,7 +170,7 @@ No todos los software es troben disponibles en totes les plataformes.
 
 
 
-**JAVA d6**
+# JAVA d6
 
 Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament
 escriureu el programa en un fitxer de text que sigui el codi font, el codi font
