@@ -27,7 +27,7 @@ Per dibuixar els diagrames de flux podeu fer servir [draw.io](https://draw.io) o
   - **Resultat CC:**
  
 Farem laformula de  **Complexitat ciclomàtica = nombre de sentencies condicionals + 1** , ja que estic utilitzan el diagrama de flix vist a classe
-Contem cuants de IFs hi han. Hi han  2 tiangles  + 1 = 3
+Contem cuants de IFs hi han. Hi han  **2 tiangles  + 1 = 3**
 
 **A = 354 ---> NO ---> PINT A<br>
 B = 10 > C = 9  --SI-> A = C ---> A = 9 ---> PINT A<br>
@@ -60,7 +60,22 @@ public class proves {
 ```
 
   - **Diagrama:**
+
+![alt text](Selecció_349.png)
+
   - **Resultat CC:**
+
+Farem laformula de  **Complexitat ciclomàtica = nombre de sentencies condicionals + 1** , ja que estic utilitzan el diagrama de flix vist a classe
+Contem cuants de IFs hi han. Hi han  **4 tiangles  + 1 = 5**
+
+**temperatura = -10 ---> roba d'esquiar ---> Return roba<br>
+temperatura = 8 ---> roba de muntanya ---> Return roba<br>
+temperatura = 18 ---> roba d'hivern ---> Return roba<br>
+temperatura = 28 ---> roba d'estiu ---> Return roba<br>
+temperatura = 33 ---> res ---> Return roba**<br>
+**Xavier no hem surt 
+
+
 
 4. Dibuixa el diagrama de flux representat per aquest codi, calcula la seva CC i crea una prova per a cada camí posible:
 
