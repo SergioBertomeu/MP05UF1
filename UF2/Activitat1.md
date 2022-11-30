@@ -22,7 +22,10 @@ CC = 16 - 14 + 2 = 4
   - **Diagrama:**
 
 ![alt text](fotos/Selecció_347.png)
+
   - **Resultat CC:**
+ 
+Farem laformula de  _Complexitat ciclomàtica = nombre de sentencies condicionals + 1_ , ja que estic utilitzan el diagrama de flix vist a classe
 
 3. Dibuixa el diagrama de flux representat per aquest codi i després calcula la seva CC:
 
