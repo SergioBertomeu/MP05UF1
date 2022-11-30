@@ -108,9 +108,10 @@ hora = 10 ---> llums = false<br>**
 5. Investiga sobre les proves de caixa negra:
 
   - Què són?
+**És un mètode de prova de programari que analitza la funcionalitat d'un programa o aplicació sense saber gaire sobre l'estructura i el disseny intern de l'element que s'està provant i compara el valor d'entrada amb el valor de sortida**
+
   - Quina diferència principal tenen sobre les de caixa blanca?
-<span style="color:red">
 
 **La prinvipal diferencia es que no sas el codi que estas provant i toca fer mes proves per poder saber en quins limits podem arribar avns que peti el programa**
   
-  </style>
+ 
