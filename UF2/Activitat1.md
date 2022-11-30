@@ -73,7 +73,7 @@ temperatura = 8 ---> roba de muntanya ---> Return roba<br>
 temperatura = 18 ---> roba d'hivern ---> Return roba<br>
 temperatura = 28 ---> roba d'estiu ---> Return roba<br>
 temperatura = 33 ---> res ---> Return roba**<br>
-**Xavier no hem surt 
+
 
 
 
@@ -89,8 +89,21 @@ temperatura = 33 ---> res ---> Return roba**<br>
     }
 ```
   - **Diagrama:**
+
+![alt text](fotos/Selecció_350.png)
+
   - **Resultat CC:**
+
+Farem laformula de  **Complexitat ciclomàtica = nombre de sentencies condicionals + 1** , ja que estic utilitzan el diagrama de flix vist a classe
+Contem cuants de IFs hi han. Hi han  **2 tiangles  + 1 = 3**
+
+
   - **Resultat proves camins:**
+
+**hora = 6 ---> llums = true ---> Return llums<br>
+hora = 22 ---> llums = true ---> Return llums<br>
+hora = 10 ---> llums = false<br>
+
 
 5. Investiga sobre les proves de caixa negra:
 
