@@ -61,7 +61,7 @@ public class proves {
 
   - **Diagrama:**
 
-![alt text](Selecció_349.png)
+![alt text](fotos/Selecció_349.png)
 
   - **Resultat CC:**
 
