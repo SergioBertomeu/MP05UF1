@@ -102,7 +102,7 @@ Contem cuants de IFs hi han. Hi han  **2 tiangles  + 1 = 3**
 
 **hora = 6 ---> llums = true ---> Return llums<br>
 hora = 22 ---> llums = true ---> Return llums<br>
-hora = 10 ---> llums = false<br>
+hora = 10 ---> llums = false<br>**
 
 
 5. Investiga sobre les proves de caixa negra:
