@@ -109,3 +109,7 @@ hora = 10 ---> llums = false<br>**
 
   - Què són?
   - Quina diferència principal tenen sobre les de caixa blanca?
+<span style="color:red">
+
+**La prinvipal diferencia es que no sas el codi que estas provant i toca fer mes proves per poder saber en quins limits podem arribar avns que peti el programa**
+  </style>
