@@ -9,7 +9,7 @@ Per dibuixar els diagrames de flux podeu fer servir [draw.io](https://draw.io) o
 
   - **Resultat 1:**
 
-CC = 16 - 14 + 2 = 4
+<span style="color:blue">**CC = 16 - 14 + 2 = 4**</span>
 
 
   - **Resultat 2:**
