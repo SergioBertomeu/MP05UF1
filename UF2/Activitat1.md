@@ -8,6 +8,10 @@ Per dibuixar els diagrames de flux podeu fer servir [draw.io](https://draw.io) o
   - ![image](https://user-images.githubusercontent.com/110727546/204655229-8c3f28d7-3d8b-4746-a55d-331f89da39d2.png)
 
   - **Resultat 1:**
+
+CC = 16 - 14 + 2 = 4
+
+
   - **Resultat 2:**
   - **Resultat 3:**
 
