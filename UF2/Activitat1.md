@@ -25,7 +25,15 @@ CC = 16 - 14 + 2 = 4
 
   - **Resultat CC:**
  
-Farem laformula de  _Complexitat ciclomàtica = nombre de sentencies condicionals + 1_ , ja que estic utilitzan el diagrama de flix vist a classe
+Farem laformula de  **Complexitat ciclomàtica = nombre de sentencies condicionals + 1** , ja que estic utilitzan el diagrama de flix vist a classe
+Contem cuants de IFs hi han. Hi han  2 tiangles  + 1 = 3
+
+**A = 354 ---> SI ---> PINT A
+B = 10 > C = 9  --SI-> A = C ---> A = 9 ---> PINT A
+B = 9 > C = 10 --NO-> A = B ---> B = 9 ---> PINT A**
+
+
+
 
 3. Dibuixa el diagrama de flux representat per aquest codi i després calcula la seva CC:
 
