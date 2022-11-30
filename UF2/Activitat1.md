@@ -28,8 +28,8 @@ CC = 16 - 14 + 2 = 4
 Farem laformula de  **Complexitat ciclomàtica = nombre de sentencies condicionals + 1** , ja que estic utilitzan el diagrama de flix vist a classe
 Contem cuants de IFs hi han. Hi han  2 tiangles  + 1 = 3
 
-**A = 354 ---> SI ---> PINT A
-B = 10 > C = 9  --SI-> A = C ---> A = 9 ---> PINT A
+**A = 354 ---> SI ---> PINT A<br>
+B = 10 > C = 9  --SI-> A = C ---> A = 9 ---> PINT A<br>
 B = 9 > C = 10 --NO-> A = B ---> B = 9 ---> PINT A**
 
 
