@@ -225,6 +225,7 @@ Fes un programa que crea una matriu de números del 1 al 10. Aquest programa rep
 Es demana:
 Codi del programa.
  
+```
 import java.util.Scanner;
 public class TaulaX {
     public static void main(String[] args) {
@@ -240,23 +241,34 @@ public class TaulaX {
         }
     }
 }
- 
+```
  
 Captura de pantalla de com li passeu a IntelliJ com argument del programa un número. (Mireu exemple findAverage).
 
  
+![Selecció_502](https://user-images.githubusercontent.com/91250228/210116594-67aeb378-e95e-42f2-b694-dde0b4a85574.png)
 
  
  
  
 Captura de com feu un punt d'interrupció al bucle de creació de la matriu i mostreu els valors de la matriu.
+
+![Selecció_503](https://user-images.githubusercontent.com/91250228/210116614-7eb949d6-f8aa-4156-906d-f0056187676c.png)
+
  
 
 Captura de punt d'interrupció al bucle de multiplicació i com modifiqueu a ma els valors de la matriu de números per a que l'execució retorni el número 1 10 vegades quan l'argument d'entrada era 1.
 El que farem sira clic secundari en set values o F2 i canviar els numeros per el numero 1
 
  
+![Selecció_504](https://user-images.githubusercontent.com/91250228/210116625-d3681a57-04e7-4bc7-bce6-abcadbd314f6.png)
 
+
+
+![Selecció_505](https://user-images.githubusercontent.com/91250228/210116631-bd3b78c3-5669-4847-9f31-99a9675745df.png)
+
+
+![Selecció_506](https://user-images.githubusercontent.com/91250228/210116638-3b0293cd-2324-4ba3-a72b-3923fb0531f5.png)
 
  
 
