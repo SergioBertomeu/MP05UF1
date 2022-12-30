@@ -21,8 +21,9 @@ public class pizzeriaPepe {
 
 ## Fer la taula amb les particions equivalents i casos vàlids i no vàlids.
 
+### Analisi valors limits
 
-| Parametres        | Condicions  | Clases Valides| Clases no Valides |
+| Parametres entrada | Condicions  | Clases Valides| Clases no Valides |
 |-------------------|-------------|---------------|--------------|
 |  Pitzzes          | 1. Un numero   |    1. pitzzes <= 10 true   |       2. pitzzes >10 false   |
 |                   |  Entre 0, 10      |            |      3. No es un enter false    |
@@ -42,98 +43,15 @@ public class pizzeriaPepe {
 | pitzes             | Classe vàlida coberta    | Resultat | 
 |-------------------|-------------|---------------|
 | 5   | 1    | true             |
-| -1         | 2      | true            | 
-| 11 | 3 | false             |
-| cuatre          | 4  | error            | 
-
-
-
-
-5
-1
-true
--1
-2
-false
-11
-3
-false
-cuatre
-4
-error
-
-
-
-
-Paràmetre entrada
-Regla a aplicar
-Classes vàlides
-Classes no vàlides
-pitza
-0 i 10
-Un numero
-5. pitza = 10 i 9
-6. pitza =
-6. 11
-
-
- 
-CORREGIT
-
-
-
-
-
-classes
-pitzzes
-sortida
-1
-7
-true
-2
-11
-false
-3
-dos
-error
+| 11         | 2      | false            | 
+| dos | 3 | error             |
 
 
 
 
 
 
-Analisi valors limits
-Paràmetre entrada
-Regla a aplicar
-Classes vàlides
-Classes no vàlides
-pitza
-0 i 10
-4.  10
-5. 9
-6. 11
-
-
-
-
-classes
-pitzzes
-sortida
-4
-10
-true
-5
-9
-false
-6
-dotce
-error
-
-
-
-
-
-Transports Jean Claude:
+## Transports Jean Claude:
 Un programa gestiona si una càrrega es pot portar amb una furgoneta.
 
 Una càrrega sempre pesarà almenys 500 kg. per aprofitar el transport, però no podrà pesar més de 900kg.
@@ -146,7 +64,7 @@ Es demana:
 
 Fer el codi font del programa.
 
-
+```
 public class TransportsJeanClaude {
 
 
@@ -164,19 +82,28 @@ public class TransportsJeanClaude {
         return resultat;
     }
 }
+```
+
+### Fer la taula amb les particions equivalents i casos vàlids i no vàlids.
 
 
-Fer la taula amb les particions equivalents i casos vàlids i no vàlids.
+| Parametres        | Condicions  | Clases Valides | Clases no Valides |
+|-------------------|-------------|---------------|----------------------------|
+| Carrega   | 1. La carrega a de se un numero     | true             |
+              Entre 500, 900    
+              
+              
+              
+| Capacitat         | 2      | false            | 
 
 
-Parametres
-Condicions
-Clases Valides
-Clases no Valides
-Carrega
-Capacitat
-1. La carrega a de se un numero
-Entre 500, 900
+
+
+
+
+
+
+
 2. La capacitat a de se un numero de 500 a 750
 1. carrega <= 900 return 0
 2. carrega >= 500
