@@ -217,8 +217,8 @@ public class Factorial2 {
  
 Captura de pantalla amb un punt d'interrupció que deixi veure totes les crides a la funció (agafeu un valor menor a 10).
 
-![alt text](![Selecció_500](https://user-images.githubusercontent.com/91250228/210116470-b81b3276-5393-4e75-82bf-0797c923be82.png)
-.jpg)
+![Selecció_500](https://user-images.githubusercontent.com/91250228/210116470-b81b3276-5393-4e75-82bf-0797c923be82.png)
+
  
 Taula de multiplicar:
 Fes un programa que crea una matriu de números del 1 al 10. Aquest programa rep per argument d'entrada un número sencer i retorna per terminal la taula de multiplicar d'aquest número multiplicant el argument per cada valor de la matriu.
