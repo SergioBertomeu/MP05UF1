@@ -164,14 +164,10 @@ Fer la taula amb les particions equivalents i casos vàlids i no vàlids.
 
 | Parametres             |  Condicions |Clases Valides |Clases no Valides |
 |-------------------|-------------|---------------|-------------|
-|  Medidir          |1. El medidor sera -10 a 50   | 1. medidor > termostat 
-return 0 |       5. NO es un numero|
-|  Teremostat      | 2. El termostat sera 15 a 40   |  2. medidor >= termostat + 2
-return 1      |     |
-|  6   | 3. sera un numero |     3. medidor <= termostat -2
-return 1          |        |
-|   7                |    | 4. medidor < termostat -3
-return 2     |        |
+|  Medidir  |1. El medidor sera -10 a 50   | 1. medidor > termostat return 0 |  5. NO es un numero|
+|  Teremostat      | 2. El termostat sera 15 a 40   |  2. medidor >= termostat + 2 return 1      |     |
+|     | 3. sera un numero |     3. medidor <= termostat -2 return 1          |        |
+|          |    | 4. medidor < termostat -3 return 2     |        |
 
 
 
