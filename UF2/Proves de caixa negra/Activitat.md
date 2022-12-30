@@ -90,7 +90,6 @@ public class TransportsJeanClaude {
 | Parametres        | Condicions  | Clases Valides | Clases no Valides |
 |------------|-------------|---------------|----------------------------|
 | Carrega |1. La carrega a de se un numero   Entre 500, 900| 1. carrega <= 900 return 0| 6. carrega >900 return -1|
-
 | Capacitat|  2. La capacitat a de se un numero de 500 a 750 | 2. carrega >= 500 return 0 | 7. carrega <500 return -1|
 | | | 3. capacitat <= 750 return 0 | 8. capacitat >750 return -1 | 
 | | | 4. capacitat >= 500 return 0 | 9. caspacitat <500 return -1 |
