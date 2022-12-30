@@ -20,9 +20,10 @@ public class pizzeriaPepe {
 
 
 Fer la taula amb les particions equivalents i casos vàlids i no vàlids.
-| Parametres | Condicions || Clases Valides | Clases no Valides |
 
-Pitzzes        1. Un numero
+| Parametres | Condicions | Clases Valides | Clases no Valides |
+
+|Pitzzes|        |1. Un numero|
 
 Entre 0, 10
 1. pitzzes <= 10 true
