@@ -1,11 +1,12 @@
 Per recorrre els camins del treball anterior
  
-Pizzeria Pepe:
+# Pizzeria Pepe:
 Un programa controla si una comanda de pizzes la pot portar un repartidor.
 Heu de tenir en compte que un repartidor pot portar 10 pizzes com a màxim a la moto.
 El programa retorna true si la comanda es pot portar i false en cas contrari.
 Es demana:
 Fer el codi font del programa.
+
 public class pizzeriaPepe {
 
     public static boolean potCarregar(int pizzes){
@@ -19,13 +20,10 @@ public class pizzeriaPepe {
 
 
 Fer la taula amb les particions equivalents i casos vàlids i no vàlids.
+| Parametres | Condicions || Clases Valides | Clases no Valides |
 
-Parametres
-Condicions
-Clases Valides
-Clases no Valides
-Pitzzes
-1. Un numero
+Pitzzes        1. Un numero
+
 Entre 0, 10
 1. pitzzes <= 10 true
 2. pitzzes >10 false
