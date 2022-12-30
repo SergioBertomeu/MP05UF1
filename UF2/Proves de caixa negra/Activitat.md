@@ -88,9 +88,18 @@ public class TransportsJeanClaude {
 
 
 | Parametres        | Condicions  | Clases Valides | Clases no Valides |
-|-------------------|-------------|---------------|----------------------------|
-| Carrega   | 1. La carrega a de se un numero   Entre 500, 900 2. La capacitat a de se un numero de 500 a 750   | true             |
-| Capacitat         | 2      | false            | 
+|------------|-------------|---------------|----------------------------|
+| Carrega Capacitat|1. La carrega a de se un numero   Entre 500, 900 2. La capacitat a de se un numero de 500 a 750 | 1. carrega <= 900 return 0 2. carrega >= 500 return 0 3. capacitat <= 750 
+return 0 4. capacitat >= 500 return 0 5. cattega <= capacitat | 6. carrega >900 return -1
+7. carrega <500 return -1
+8. capacitat >750 return -1
+9. caspacitat <500 return -1
+
+10. No es un enter
+errror |
+
+
+
 
 
 
@@ -101,21 +110,8 @@ public class TransportsJeanClaude {
 
 
 2. La capacitat a de se un numero de 500 a 750
-1. carrega <= 900 return 0
-2. carrega >= 500
-return 0
-3. capacitat <= 750 
-return 0
-4. capacitat >= 500
-return 0
-5. cattega <= capacitat
-6. carrega >900 return -1
-7. carrega <500 return -1
-8. capacitat >750 return -1
-9. caspacitat <500 return -1
 
-10. No es un enter
-errror
+
 
 
 
