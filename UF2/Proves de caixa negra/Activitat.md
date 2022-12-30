@@ -19,27 +19,15 @@ public class pizzeriaPepe {
 }
 
 
-Fer la taula amb les particions equivalents i casos vàlids i no vàlids.
+## Fer la taula amb les particions equivalents i casos vàlids i no vàlids.
 
 
 | Parametres        | Condicions  | Clases Valides| Clases no Valides |
 |-------------------|-------------|---------------|--------------|
-|  Pitzzes  | Nintendo    | E             | 1600         |
-|         | Atlus       | T             | 1500         |
-|  | Square Enix | T             | 1500         |
-|                   | Epic Games  | M             | 0            |
-
-
-
-|Pitzzes|        |1. Un numero|
-
-Entre 0, 10
-1. pitzzes <= 10 true
-2. pitzzes >10 false
-
-
-3. No es un enter
-false
+|  Pitzzes          | 1. Un numero   |    1. pitzzes <= 10 true   |       2. pitzzes >10 false   |
+|                   |  Entre 0, 10      |            |      3. No es un enter false    |
+|                   |   |              |          |
+|                   |    |              |             |
 
 
 
@@ -49,19 +37,18 @@ false
 
 
 
+## Fer la taula amb l'anàlisis de valors límit i casos vàlids i no vàlids.
+
+| pitzes             | Classe vàlida coberta    | Resultat | 
+|-------------------|-------------|---------------|
+| 5   | 1    | true             |
+| -1         | 2      | true            | 
+| 11 | 3 | false             |
+| cuatre          | 4  | error            | 
 
 
 
 
-
-
-
-Fer la taula amb l'anàlisis de valors límit i casos vàlids i no vàlids.
-
-
-pitzes
-Classe vàlida coberta
-Resultat
 5
 1
 true
