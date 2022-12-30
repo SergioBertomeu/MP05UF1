@@ -137,7 +137,8 @@ public class TransportsJeanClaude {
 
 
 
-Control de temperatura:
+## Control de temperatura
+
 Un programa gestiona el modificador de temperatura del sistema de calefacció d'un restaurant.
 Aquest programa rep la medició de la temperatura del restaurant en graus celsius, acceptant com entrades vàlides de -10 a 50 graus. (medidor)
 A més té una entrada d'usuari/a amb la temperatura que es vol mantenir, que va de 15 a 40 graus. (termostat).
@@ -146,6 +147,7 @@ Segons la informació que té en cada moment el programa farà el següent:
 Si la temperatura del medidor és més alta que la del termostat, la potencia del sistema serà 0. Si la temperatura del medidor és més baixa o més alta que la del termostat però només entre 0 i 2 graus, la potència serà 1. Si la temperatura del medidor és més baixa que la del termostat en més de dos graus, la potència del sistema serà 2.
 Es demana:
 Fer el codi font del programa.
+```
 public class ContolDeTemperatura {
     public static void main(String[] args) {
     }
@@ -157,11 +159,23 @@ public class ContolDeTemperatura {
         return 0;
     }
 }
+```
 Fer la taula amb les particions equivalents i casos vàlids i no vàlids.
 
-Parametres
-Condicions
-Clases Valides
+| Parametres             |  Condicions |Clases Valides |Clases no Valides |
+|-------------------|-------------|---------------|-------------|
+|  Medidir          |1. El medidor sera -10 a 50   | 1. medidor > termostat 
+return 0 |       5. NO es un numero|
+|  Teremostat      | 2. El termostat sera 15 a 40   |  2. medidor >= termostat + 2
+return 1      |     |
+|  6   | 3. sera un numero |     3. medidor <= termostat -2
+return 1          |        |
+|   7                |    | 4. medidor < termostat -3
+return 2     |        |
+
+
+
+
 Clases no Valides
 medidor
 termostat
