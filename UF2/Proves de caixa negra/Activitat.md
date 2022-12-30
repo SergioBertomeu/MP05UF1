@@ -96,62 +96,38 @@ public class TransportsJeanClaude {
 | | |5. cattega <= capacitat|10. No es un enter errror |
 
 
+## Fer la taula amb l'anàlisis de valors límit i casos vàlids i no vàlids.
 
-
-
-
-| |   
-return 0 4. capacitat >= 500 return 0 5. cattega <= capacitat | 6. carrega >900 return -1
-7. carrega <500 return -1
-8. capacitat >750 return -1
-9. caspacitat <500 return -1
-
-10. No es un enter
-errror |
-
-
-
-
-
-
-
-
-
-
-
-
-2. La capacitat a de se un numero de 500 a 750
+### Analisi valors limits
+| Paràmetre entrada | Regla a aplicar  | Clases Valides| Clases no Valides |
+|-------------------|-------------|---------------|--------------|
+|  Carrega          |Carrega 500 a 900   |  4.  carrega 900   |       13.  carrega 901|
+|  Capacitat            |  Capacitat 500 a 750    |   5. carrega 899         |    14.  carrega 499   |
+|     |  |        5. carrega 899       |    15.  Capacitat 751      |
+|                   |    |        6.carrega 500      |      16.  Capacitat 499     |
+|     |    |      7. carrega 501    |      17. NO es un numero    |
+|     |    |      8. Capacitat 500     |          |
+|     |    |        9. Capacitat 501      |          |
+|     |    |        10. capacitat 750      |          |
+|     |    |       11. capacitat 749      |          |
+|     |    |       12. cattega <= capacitat      |          |
 
 
 
 
 
 
-
-
-
-
-
-
-
-Fer la taula amb l'anàlisis de valors límit i casos vàlids i no vàlids.
-
-Analisi valors limits
-Paràmetre entrada
-Regla a aplicar
-Classes vàlides
-Classes no vàlides
 Carrega
 Capacitat
 Carrega 500 a 900
 Capacitat 500 a 750
 
 
-4.  carrega 900
+
 5. carrega 899
 6.carrega 500
 7. carrega 501
-8. Capacitat 500
+
 9. Capacitat 501
 10. capacitat 750
 11. capacitat 749
