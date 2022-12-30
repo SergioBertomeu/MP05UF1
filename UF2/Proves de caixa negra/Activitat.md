@@ -6,7 +6,7 @@ Heu de tenir en compte que un repartidor pot portar 10 pizzes com a màxim a la 
 El programa retorna true si la comanda es pot portar i false en cas contrari.
 Es demana:
 Fer el codi font del programa.
-
+```
 public class pizzeriaPepe {
 
     public static boolean potCarregar(int pizzes){
@@ -17,7 +17,7 @@ public class pizzeriaPepe {
         return pot;
     }
 }
-
+```
 
 ## Fer la taula amb les particions equivalents i casos vàlids i no vàlids.
 
@@ -115,110 +115,25 @@ public class TransportsJeanClaude {
 
 
 
-
-
-Carrega
-Capacitat
-Carrega 500 a 900
-Capacitat 500 a 750
-
-
-
-5. carrega 899
-6.carrega 500
-7. carrega 501
-
-9. Capacitat 501
-10. capacitat 750
-11. capacitat 749
-12. cattega <= capacitat
-
-
-13.  carrega 901
-14.  carrega 499
-15.  Capacitat 751
-16.  Capacitat 499
-17. NO es un numero
+| classes | Carrega  | Capacitat| sortida |
+|-------------------|-------------|---------------|--------------|
+|  4          |900   |    |       0|
+|  5            | 899    |            |    0   |
+|  6   | 500 |               |   0     |
+|   7                | 501   |      |    0     |
+|   8  |    |      900   |      0    |
+|   9  |    |      899     |        0  |
+|   10  |    |        500      |        0  |
+|  11   |    |        501      |        0  |
+|  12   |  Carrega <  |   Capacitat      |      0    |
+|  13   |  901  |            |       -1   |
+|  14   |  499  |            |       -1   |
+|  15   |  751  |             |        -1  |
+|  16   |   499 |          |         -1 |
+|  17   |    No es un numero |          |      error    |
 
 
 
-
-
-
-
-classes
-Carrega
-Capacitat
-sortida
-4
-900
-
-
-0
-5
-899
-
-
-0
-6
-500
-
-
-0
-7
-501
-
-
-0
-8
-
-
-900
-0
-9
-
-
-899
-0
-10
-
-
-500
-0
-11
-
-
-501
-0
-12
-Carrega <
-< Capacitat
-0
-13
-901
-
-
--1
-14
-499
-
-
--1
-15
-751
-
-
--1
-16
-499
-
-
--1
-17
-No es un numero
-
-
-Error
 
 
 
