@@ -89,8 +89,8 @@ public class TransportsJeanClaude {
 
 | Parametres        | Condicions  | Clases Valides | Clases no Valides |
 |-------------------|-------------|---------------|----------------------------|
-| Carrega   | 1. La carrega a de se un numero     | true             |
-              Entre 500, 900    
+| Carrega   | 1. La carrega a de se un numero   Entre 500, 900   | true             |
+                 
               
               
               
