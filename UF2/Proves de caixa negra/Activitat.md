@@ -24,12 +24,12 @@ Fer la taula amb les particions equivalents i casos vàlids i no vàlids.
 
 | Parametres        | Condicions  | Clases Valides| Clases no Valides |
 |-------------------|-------------|---------------|--------------|
-| Animal Crossing   | Nintendo    | E             | 1600         |
-| Persona 5         | Atlus       | T             | 1500         |
-| Final Fantasy VII | Square Enix | T             | 1500         |
-| Fortnite          | Epic Games  | M             | 0            |
+|  Pitzzes  | Nintendo    | E             | 1600         |
+|         | Atlus       | T             | 1500         |
+|  | Square Enix | T             | 1500         |
+|                   | Epic Games  | M             | 0            |
 
-|  |  |  |  |
+
 
 |Pitzzes|        |1. Un numero|
 
