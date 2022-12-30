@@ -146,7 +146,7 @@ El sistema té tres sortides possibles que representen la potencia del sistema d
 Segons la informació que té en cada moment el programa farà el següent:
 Si la temperatura del medidor és més alta que la del termostat, la potencia del sistema serà 0. Si la temperatura del medidor és més baixa o més alta que la del termostat però només entre 0 i 2 graus, la potència serà 1. Si la temperatura del medidor és més baixa que la del termostat en més de dos graus, la potència del sistema serà 2.
 Es demana:
-Fer el codi font del programa.
+### Fer el codi font del programa.
 ```
 public class ContolDeTemperatura {
     public static void main(String[] args) {
@@ -160,7 +160,7 @@ public class ContolDeTemperatura {
     }
 }
 ```
-Fer la taula amb les particions equivalents i casos vàlids i no vàlids.
+### Fer la taula amb les particions equivalents i casos vàlids i no vàlids.
 
 | Parametres             |  Condicions |Clases Valides |Clases no Valides |
 |-------------------|-------------|---------------|-------------|
@@ -169,59 +169,22 @@ Fer la taula amb les particions equivalents i casos vàlids i no vàlids.
 |     | 3. sera un numero |     3. medidor <= termostat -2 return 1          |        |
 |          |    | 4. medidor < termostat -3 return 2     |        |
 
-
-
-
-Clases no Valides
-medidor
-termostat
-1. El medidor sera -10 a 50
-2. El termostat sera 15 a 40
-3. sera un numero
-1. medidor > termostat 
-return 0
-2. medidor >= termostat + 2
-return 1
-3. medidor <= termostat -2
-return 1
-4. medidor < termostat -3
-return 2
-
-
-5. NO es un numero
-
-
  
- 
-Fer la taula amb l'anàlisis de valors límit i casos vàlids i no vàlids.
+### Fer la taula amb l'anàlisis de valors límit i casos vàlids i no vàlids.
 
-classes
-medidor
-tormostat
-sortida
-1
-medidor >
-> tormostat
-0
-2
-medidor >= +2
-tormostat
-1
-3
-medidor <=  -2
-tormostat
-1
-4
-medidor < -3
-tormostat
-2
-5
-no es un numero
-no es un numero
-error
+| classes             |  medidor |tormostat |sortida |
+|-------------------|-------------|---------------|-------------|
+|  1  |medidor >  | tormostat | 0|
+|  2      | medidor >= +2  |  tormostat      |   0  |
+|   3  | medidor <=  -2 |     tormostat         |    0    |
+|   4       |  medidor < -3  |tormostat    |      0  |
+|  5       |  no es un numero  | no es un numero      |   error     |
 
 
-Factorial:
+
+
+
+## Factorial:
 
 El factorial d'un nombre és el resultat de multiplicar el número per ell mateix -1 tantes vegades com siguin necessàries fins arrivar a 1.
 
@@ -231,8 +194,8 @@ Per exemple el factorial de 5 és:
 Fes una funció factorial que rebi un número com paràmetre i retorni el seu factorial.
 Es demana:
 Codi del programa.
-package MP05.UF2Activitats2;
- 
+
+``` 
 import java.util.Scanner;
  
 public class Factorial2 {
@@ -249,10 +212,13 @@ public class Factorial2 {
         System.out.println("El factorial es: " + sCadena + " = " + (iFactorial));
     }
 }
+
+```
  
 Captura de pantalla amb un punt d'interrupció que deixi veure totes les crides a la funció (agafeu un valor menor a 10).
 
-
+![alt text](![Selecció_500](https://user-images.githubusercontent.com/91250228/210116470-b81b3276-5393-4e75-82bf-0797c923be82.png)
+.jpg)
  
 Taula de multiplicar:
 Fes un programa que crea una matriu de números del 1 al 10. Aquest programa rep per argument d'entrada un número sencer i retorna per terminal la taula de multiplicar d'aquest número multiplicant el argument per cada valor de la matriu.
