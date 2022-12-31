@@ -81,3 +81,109 @@ class pizzeriaPepeTest {
 }
 
 ```
+
+## Transports Jean Claude
+```
+public class TransportsJeanClaude {
+
+
+    public static int c15(int carrega, int capacitat) {
+        int resultat = -1;
+
+        if (carrega <= 900 && carrega >= 500) {
+            if (capacitat >= 500 && capacitat <= 750) {
+                if (carrega <= capacitat) {
+                    resultat = 0;
+                }
+            }
+        }
+
+        return resultat;
+    }
+}
+```
+
+```
+import org.junit.jupiter.api.*;
+
+class TransportsJeanClaudeTest {
+
+    @Test //Valor al límit superior capacitat
+    void prova1() {
+        int resultat = TransportsJeanClaude.c15(500, 751);
+        Assertions.assertEquals(-1, resultat);
+    }
+    @Test //Valor al límit inferior capacitat
+    void prova2() {
+        int resultat = TransportsJeanClaude.c15(500, 499);
+        Assertions.assertEquals(-1, resultat);
+    }
+
+    @Test //Valor al límit superior carrega
+    void prova3() {
+        int resultat = TransportsJeanClaude.c15(901, 500);
+        Assertions.assertEquals(-1, resultat);
+    }
+
+    @Test //Valor al límit inderior carrega
+    void prova4() {
+        int resultat = TransportsJeanClaude.c15(499, 500);
+        Assertions.assertEquals(-1, resultat);
+    }
+
+//    @Test //Valor no és un número
+//    void prova5() {
+//        int resultat = TransportsJeanClaude.c15("cinc", "cinc");
+//        Assertions.assertEquals("error", resultat);
+//    }
+
+    @Test //Valor entre els límits
+    void prova6() {
+        int resultat = TransportsJeanClaude.c15(750, 750);
+        Assertions.assertEquals(0, resultat);
+    }
+
+
+    @Test //Valor entre els límits
+    void prova7() {
+        int resultat = TransportsJeanClaude.c15(749, 749);
+        Assertions.assertEquals(0, resultat);
+    }
+
+    @Test //Valor entre els límits
+    void prova8() {
+        int resultat = TransportsJeanClaude.c15(501, 501);
+        Assertions.assertEquals(0, resultat);
+    }
+
+    @Test //Valor entre els límits
+    void prova9() {
+        int resultat = TransportsJeanClaude.c15(500, 500);
+        Assertions.assertEquals(0, resultat);
+    }
+
+    @Test //Valor entre els límits
+    void prova10() {
+        int resultat = TransportsJeanClaude.c15(500, 750);
+        Assertions.assertEquals(0, resultat);
+    }
+    @Test //Valor entre els límits
+    void prova11() {
+        int resultat = TransportsJeanClaude.c15(500, 749);
+        Assertions.assertEquals(0, resultat);
+    }
+
+    @Test //Valor entre els límits
+    void prova12() {
+        int resultat = TransportsJeanClaude.c15(500, 500);
+        Assertions.assertEquals(0, resultat);
+    }
+
+    @Test //Valor entre els límits
+    void prova13() {
+        int resultat = TransportsJeanClaude.c15(500, 501);
+        Assertions.assertEquals(0, resultat);
+    }
+
+}
+``
