@@ -152,8 +152,8 @@ public class Calefaccio {
     public static int potencia_sistema(int medidor, int termostato){
 
         if(medidor < -10 || medidor > 50 || termostato < 15 || termostato > 40 ){
-            //entrada no válida
-            //Qué hacer??
+            //entrada no valida
+            //Que fem??
             return -1;
         }
 
