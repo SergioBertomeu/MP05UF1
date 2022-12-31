@@ -148,16 +148,24 @@ Si la temperatura del medidor és més alta que la del termostat, la potencia de
 Es demana:
 ### Fer el codi font del programa.
 ```
-public class ContolDeTemperatura {
-    public static void main(String[] args) {
-    }
-    public static int mitsubushi (int medidor, int termostat){
-        if (medidor > termostat + 2 || medidor < termostat -2)
-            return 1;
-        if (medidor < termostat -3)
+public class Calefaccio {
+    public static int potencia_sistema(int medidor, int termostato){
+
+        if(medidor < -10 || medidor > 50 || termostato < 15 || termostato > 40 ){
+            //entrada no válida
+            //Qué hacer??
+            return -1;
+        }
+
+        if(medidor > termostato + 2)
+            return 0;
+
+        if(medidor < termostato - 2)
             return 2;
-        return 0;
+
+        return 1;
     }
+
 }
 ```
 ### Fer la taula amb les particions equivalents i casos vàlids i no vàlids.
