@@ -187,3 +187,74 @@ class TransportsJeanClaudeTest {
 
 }
 ```
+
+## Control de temperatura
+
+```
+package org.example;
+
+public class Calefaccio {
+    public static int potencia_sistema(int medidor, int termostato){
+
+        if(medidor < -10 || medidor > 50 || termostato < 15 || termostato > 40 ){
+            //entrada no válida
+            //Qué hacer??
+            return -1;
+        }
+
+        if(medidor > termostato + 2)
+            return 0;
+
+        if(medidor < termostato - 2)
+            return 2;
+
+        return 1;
+    }
+
+}
+```
+
+```
+import org.junit.jupiter.api.*;
+public class CalefaccioTest {
+
+    // valors en la clase 0 (potencia 0) amb valors valits
+    @Test
+    void test1(){
+        Assertions.assertEquals(0, Calefaccio.potencia_sistema(18,15));
+        Assertions.assertEquals(0, Calefaccio.potencia_sistema(40,15));
+        Assertions.assertEquals(0, Calefaccio.potencia_sistema(50,35));
+    }
+
+    // valors en la clase 1 (potencia 1) amb valors valits
+    @Test
+    void test2(){
+        Assertions.assertEquals(1, Calefaccio.potencia_sistema(20,20));
+        Assertions.assertEquals(1, Calefaccio.potencia_sistema(21,20));
+        Assertions.assertEquals(1, Calefaccio.potencia_sistema(19,20));
+        Assertions.assertEquals(1, Calefaccio.potencia_sistema(17,15));
+        Assertions.assertEquals(1, Calefaccio.potencia_sistema(38,40));
+    }
+
+    //valores en la clase 2 (potencia 2) amb valors valids
+    @Test
+    void test3(){
+        Assertions.assertEquals(2, Calefaccio.potencia_sistema(17,20));
+        Assertions.assertEquals(2, Calefaccio.potencia_sistema(-5,30));
+        Assertions.assertEquals(2, Calefaccio.potencia_sistema(-10,15));
+    }
+
+    // valors no valids
+    @Test
+    void test4(){
+        Assertions.assertEquals(-1, Calefaccio.potencia_sistema(80,20));
+        Assertions.assertEquals(-1, Calefaccio.potencia_sistema(-5,0));
+        Assertions.assertEquals(-1, Calefaccio.potencia_sistema(-20,15));
+        Assertions.assertEquals(-1, Calefaccio.potencia_sistema(-20,90));
+    }
+
+
+}
+```
+
+
