@@ -48,11 +48,12 @@ OMG va crear el consorci que va desenvolupar UML, i va liderar el procés de def
 
 # Utilitzarem Lucid per crear els següents objectes:
 
-1. persona.
-2. llibre.
-3. vehicle.
-4. ordinador.
-Penseu els seus atributs i operacions així com la visibilitat dels mateixos.
+1. persona
+2. llibre
+3. vehicle
+4. ordinador
+
+[Pt1MP05.pdf](https://github.com/SergioBertomeu/MP05UF1/files/10858681/Pt1MP05.pdf)
 
 
 
