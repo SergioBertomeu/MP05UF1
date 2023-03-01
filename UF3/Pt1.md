@@ -53,7 +53,8 @@ OMG va crear el consorci que va desenvolupar UML, i va liderar el procés de def
 3. vehicle
 4. ordinador
 
-[Pt1MP05.pdf](https://github.com/SergioBertomeu/MP05UF1/files/10858681/Pt1MP05.pdf)
+
+![Pt1MP05](https://user-images.githubusercontent.com/91250228/222084174-f70b4e94-0912-4514-845a-cb824e82b456.png)
 
 
 
