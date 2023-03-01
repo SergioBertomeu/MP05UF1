@@ -1,5 +1,5 @@
 
-1.  Buscar quines són les principals versions de UML publicades fins la més actual i de quin any són.
+# Buscar quines són les principals versions de UML publicades fins la més actual i de quin any són.
 
 UML 1.0 (1997): Aquesta va ser la primera versió d'UML, publicada l'any 1997 per la Object Management Group (OMG).
 
@@ -27,7 +27,7 @@ Encara que Rational Rose ja no és tan popular com ho va ser en el passat, molts
 
 # Què té que veure Rational Rose amb UML?
 
-Rational Rose té molt a veure amb UML (Unified Modeling Language), ja que va ser una de les primeres eines de disseny de software que va incorporar suport per a UML. De fet, Rational Software Corporation (la companyia que va crear Rational Rose) va ser una de les companyies fundadores del consorci Object Management Group (OMG), que va desenvolupar i va promoure UML com a estàndard per a la modelització de software.
+Rational Rose té molt a veure amb UML (Unified Modeling Language), ja que va ser una de les primeres eines de disseny de software que va incorporar suport per a UML.
 
 # Quan va ser publicada UML per la International Organization for Standardization (ISO)?
 
