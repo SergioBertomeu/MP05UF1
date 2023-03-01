@@ -1,5 +1,5 @@
 
-# Buscar quines són les principals versions de UML publicades fins la més actual i de quin any són.
+1.  Buscar quines són les principals versions de UML publicades fins la més actual i de quin any són.
 
 UML 1.0 (1997): Aquesta va ser la primera versió d'UML, publicada l'any 1997 per la Object Management Group (OMG).
 
@@ -19,8 +19,6 @@ UML (Unified Modeling Language) va ser creat per un consorci de tres companyies 
 
 
 # Què és Rational Rose?
-
-Rational Rose és una eina de programari de disseny de software que es va desenvolupar per Rational Software Corporation (ara part de IBM). Aquesta eina va ser molt popular en el desenvolupament de software durant els anys 90 i 2000 i es va utilitzar per dissenyar, modelar i visualitzar sistemes de software utilitzant UML (Unified Modeling Language).
 
 Rational Rose va proporcionar una interfície gràfica d'usuari per crear diagrames UML, com ara diagrames de classe, diagrames de seqüència, diagrames d'estat, entre d'altres. Això va permetre als desenvolupadors de software crear models de software visualment atractius i fàcilment comprensibles per als altres membres de l'equip de desenvolupament.
 
