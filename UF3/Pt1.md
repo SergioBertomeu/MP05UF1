@@ -70,6 +70,9 @@ Utilitzarem [Lucid](https://lucid.app/) per crear els diagrames de classes segü
 
 Penseu els seus atributs i operacions així com la visibilitat dels mateixos.
 
+![Pt1MP05](https://user-images.githubusercontent.com/91250228/225561896-64d760f8-ffd4-4b09-87b8-3029f355bb9a.png)
+
+
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
 
@@ -84,6 +87,9 @@ Utilitzarem [Lucid](https://lucid.app/) per crear 5 generalitzacións de classes
 3.
 4.
 5.
+
+[generalitzacións de classes.pdf](https://github.com/SergioBertomeu/MP05UF1/files/10988630/generalitzacions.de.classes.pdf)
+
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
