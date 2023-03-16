@@ -57,8 +57,119 @@ OMG va crear el consorci que va desenvolupar UML, i va liderar el procés de def
 ![Pt1MP05](https://user-images.githubusercontent.com/91250228/222084174-f70b4e94-0912-4514-845a-cb824e82b456.png)
 
 
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
+
+# Activitat
+
+Utilitzarem [Lucid](https://lucid.app/) per crear els diagrames de classes següents:
+
+1. persona.
+2. llibre.
+3. vehicle.
+4. ordinador.
+
+Penseu els seus atributs i operacions així com la visibilitat dels mateixos.
+
+🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
 
+
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
+# Activitat
+
+Utilitzarem [Lucid](https://lucid.app/) per crear 5 generalitzacións de classes (subclasse i superclasse):
+
+1.
+2.
+3.
+4.
+5.
+
+🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
+
+
+
+
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
+
+# Activitat
+
+Escrivim quines associacions poden tenir les següents classes, nom d'associació i cardinalitat:
+
+1. persona, DNI.
+2. persona, comics.
+3. persona, tren.
+4. animal, persona.
+5. persona, persona.
+6. persona, cotxe.
+7. persona, adreça.
+8. taxi, client.
+
+🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
+
+
+
+
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
+
+# Activitat
+
+Utilitzarem [Lucid](https://lucid.app/) per crear una agregació entre:
+
+1. ovelles, corral.
+2. animals, zoo.
+3. curs, estudiants.
+4. biblioteca, llibres.
+5. atletes, equip.
+
+🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
+
+
+
+
+
+
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
+
+# Activitat
+
+Utilitzarem [Lucid](https://lucid.app/) per crear 5 relacions de composició:
+
+1.
+2.
+3.
+4.
+5.
+
+🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
+
+
+
+
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
+
+# Activitat
+
+Utilitzarem [Lucid](https://lucid.app/) crea 2 relacions d'associació amb operacions o atributs propis:
+
+1.
+2.
+
+🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
+
+
+
+
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
+
+# Activitat
+
+Utilitzarem [Lucid](https://lucid.app/) i IntelliJ crea 2 interfícies, la seva codificació a Java i una classe que la implementi.
+
+1.
+2.
+
+🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
 
 
