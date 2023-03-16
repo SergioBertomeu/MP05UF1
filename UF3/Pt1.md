@@ -88,7 +88,8 @@ Utilitzarem [Lucid](https://lucid.app/) per crear 5 generalitzacións de classes
 4.
 5.
 
-[generalitzacións de classes.pdf](https://github.com/SergioBertomeu/MP05UF1/files/10988630/generalitzacions.de.classes.pdf)
+![Selecció_1025](https://user-images.githubusercontent.com/91250228/225564225-953552a0-cc6f-4f35-a0e3-b756a47b7247.png)
+
 
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
@@ -111,6 +112,9 @@ Escrivim quines associacions poden tenir les següents classes, nom d'associaci�
 7. persona, adreça.
 8. taxi, client.
 
+
+![Selecció_1027](https://user-images.githubusercontent.com/91250228/225564785-cd6eb86c-980c-42cb-859f-51e7f8b4caf4.png)
+
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
 
@@ -127,6 +131,9 @@ Utilitzarem [Lucid](https://lucid.app/) per crear una agregació entre:
 3. curs, estudiants.
 4. biblioteca, llibres.
 5. atletes, equip.
+
+![Selecció_1026](https://user-images.githubusercontent.com/91250228/225564576-2e64cb06-cdf9-4fbb-b172-70e196beb89c.png)
+
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
@@ -147,6 +154,9 @@ Utilitzarem [Lucid](https://lucid.app/) per crear 5 relacions de composició:
 4.
 5.
 
+![Selecció_1028](https://user-images.githubusercontent.com/91250228/225565056-4c847220-a2ad-4f77-8494-a5b43f356b06.png)
+
+
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
 
@@ -160,6 +170,9 @@ Utilitzarem [Lucid](https://lucid.app/) crea 2 relacions d'associació amb opera
 
 1.
 2.
+
+![Selecció_1029](https://user-images.githubusercontent.com/91250228/225565336-700deb90-00fb-4730-81bf-e76543796330.png)
+
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
