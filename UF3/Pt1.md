@@ -186,7 +186,11 @@ Utilitzarem [Lucid](https://lucid.app/) crea 2 relacions d'associació amb opera
 Utilitzarem [Lucid](https://lucid.app/) i IntelliJ crea 2 interfícies, la seva codificació a Java i una classe que la implementi.
 
 1.
+La interfície és una classe abstracta que conté la declaració (i només la declaració) de les propietats i operacions que s'hauran d'implementar per una classe.
 
+Per exemple aquí tenim la interfície IFiguresGeometriques2
+
+![Selecció_1070](https://user-images.githubusercontent.com/91250228/226884545-be639a3d-aefe-4a4a-a628-38d69c24a2e0.png)
 
 
 
