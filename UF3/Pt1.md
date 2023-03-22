@@ -186,7 +186,38 @@ Utilitzarem [Lucid](https://lucid.app/) crea 2 relacions d'associació amb opera
 Utilitzarem [Lucid](https://lucid.app/) i IntelliJ crea 2 interfícies, la seva codificació a Java i una classe que la implementi.
 
 1.
+
+
+
+
+Com veiem té la declaració dels mètodes, aquesta interfície es podria codificar així:
+
+![Selecció_1066](https://user-images.githubusercontent.com/91250228/226866069-64522613-db83-473c-b529-51071d551bbe.png)
+
+
+Si volem utilitzar-la haurem de crear una classe que la implementi, per exemple l:
+
+![Selecció_1067](https://user-images.githubusercontent.com/91250228/226865889-0444a398-6b70-46ce-bc78-abaeb7a22a2d.png)
+
+
+
+
 2.
+
+
+
+
+
+Com veiem té la declaració dels mètodes, aquesta interfície es podria codificar així:
+
+![Selecció_1068](https://user-images.githubusercontent.com/91250228/226866308-24287de4-c507-4ab7-8f67-0bc2eccfe272.png)
+
+
+Si volem utilitzar-la haurem de crear una classe que la implementi, per exemple l:
+
+![Selecció_1069](https://user-images.githubusercontent.com/91250228/226866340-a14002d9-d913-47e9-9553-2a5647b074bb.png)
+
+
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
