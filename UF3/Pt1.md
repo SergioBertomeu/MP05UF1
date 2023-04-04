@@ -208,19 +208,22 @@ Si volem utilitzar-la haurem de crear una classe que la implementi, per exemple 
 
 2.
 
+Per exemple aquí tenim la interfície InVehicle
 
-
+![Selecció_1174](https://user-images.githubusercontent.com/91250228/229883978-297338f5-0fda-4238-94d8-ee3d75257ee7.png)
 
 
 Com veiem té la declaració dels mètodes, aquesta interfície es podria codificar així:
 
-![Selecció_1068](https://user-images.githubusercontent.com/91250228/226866308-24287de4-c507-4ab7-8f67-0bc2eccfe272.png)
+![Selecció_1175](https://user-images.githubusercontent.com/91250228/229884268-3dc1d704-dc28-4138-8000-1e682b8cfcaf.png)
+
 
 
 Si volem utilitzar-la haurem de crear una classe que la implementi, per exemple l:
 
-![Selecció_1069](https://user-images.githubusercontent.com/91250228/226866340-a14002d9-d913-47e9-9553-2a5647b074bb.png)
 
+
+![Selecció_1176](https://user-images.githubusercontent.com/91250228/229884325-b8f5dab5-4fa4-49af-bddd-545dbe98c426.png)
 
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
