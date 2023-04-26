@@ -22,7 +22,13 @@ Despres
 
 ![Selecció_1365](https://user-images.githubusercontent.com/91250228/234501206-2dced255-0d18-49df-bc1b-2c52422fdcad.png)
 
+![Selecció_1366](https://user-images.githubusercontent.com/91250228/234502011-520777bf-eb11-40b3-9b68-04b0d32faf37.png)
 
+
+![Selecció_1368](https://user-images.githubusercontent.com/91250228/234502077-c3abfe84-1dfb-4a70-b03c-0538b4f01f34.png)
+
+
+![Selecció_1369](https://user-images.githubusercontent.com/91250228/234502151-d3dc592c-e9e7-40b9-b454-f1590dad641c.png)
 
 
 
