@@ -13,8 +13,10 @@ Una volta creada lhi fem doble clic i editem els parametres i afegim els que nes
 ![Selecció_1362](https://user-images.githubusercontent.com/91250228/234499717-d025617e-8fca-4d9a-a651-d9d14a128542.png)
 
 
-![Selecció_1363](https://user-images.githubusercontent.com/91250228/234500107-e88b92a5-277e-4e3c-bc28-21b7bdb4daad.png)
+![Selecció_1364](https://user-images.githubusercontent.com/91250228/234500280-942a03b6-f9bb-481a-a917-024b8afb1deb.png)
 
+
+![Selecció_1364](https://user-images.githubusercontent.com/91250228/234500431-5d584613-64e0-4560-be22-59513d2efb8b.png)
 
 
 
