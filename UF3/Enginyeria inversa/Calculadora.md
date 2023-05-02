@@ -93,31 +93,51 @@ Fem deble clic i a general l'hi camviem el nom de la clsse, despres ens desplace
 
 Seguida ment anem a Oprecions i fem clic en operacio nova i afejim els metodes que he, detectat
 
+![Selecció_1417](https://user-images.githubusercontent.com/91250228/235717800-0d58ac8f-34bc-475e-a9a6-5cf72dbd3291.png)
+
+![Selecció_1418](https://user-images.githubusercontent.com/91250228/235717830-9fdf64bc-63c9-4313-a2c1-5f77c7e3f73d.png)
+
+
+![Selecció_1419](https://user-images.githubusercontent.com/91250228/235717893-a1c36eb3-a283-4fca-bb91-15b417351e62.png)
+
+
+I ja tendriem els metrodes i clases fet
+
+
+![Selecció_1420](https://user-images.githubusercontent.com/91250228/235717924-c0f295ee-9a03-4444-81c6-6745b32bcf7a.png)
+
+
+
+Ara es l'hore de explortaro a codi Python
+
+
+![Selecció_1404](https://user-images.githubusercontent.com/91250228/235721262-dfe0e598-4315-4df2-9087-2b833e7dadda.png)
+
+
+![Selecció_1421](https://user-images.githubusercontent.com/91250228/235721333-1da4bcf5-72a7-4387-a02e-d1c8e4cf65a3.png)
 
 
 
 
+![Selecció_1422](https://user-images.githubusercontent.com/91250228/235721347-f7aa9be7-08a9-4a6e-a5aa-261a049e2c27.png)
 
 
 
+![Selecció_1423](https://user-images.githubusercontent.com/91250228/235721365-ce7e98f7-81d2-4c48-b384-2fff91fac2e3.png)
 
 
 
+Aixo seria el siagrama de cas d'ús:
+
+
+![Selecció_1424](https://user-images.githubusercontent.com/91250228/235730168-d1313405-f43a-4f6f-82fa-d936d8477aa7.png)
+
+
+I aqui tendriem el de diagrama de seqüència:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+![Selecció_1425](https://user-images.githubusercontent.com/91250228/235733287-d4e9d7a0-c396-4660-830a-449bba767f4b.png)
 
 
 
