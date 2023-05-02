@@ -68,10 +68,11 @@ Per ferho amb Pyton farem el magteix pero Posant Pyton
 
 ![Selecció_1410](https://user-images.githubusercontent.com/91250228/235686951-a8326d61-a856-43ed-8f22-fa8c107cf405.png)
 
+![Selecció_1411](https://user-images.githubusercontent.com/91250228/235708653-1f2f30b0-4734-48ad-88fd-6c32ef951682.png)
 
 
 
-Batalles
+**Batalles
 
 
 
