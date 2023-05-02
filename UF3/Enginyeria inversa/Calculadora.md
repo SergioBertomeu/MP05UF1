@@ -20,7 +20,7 @@ Dins d'aquesta finestra posem el nom i el tipus de retornar. A baix posarem el c
 
 ![Selecció_1364](https://user-images.githubusercontent.com/91250228/234500431-5d584613-64e0-4560-be22-59513d2efb8b.png)
 
-Despres 
+I aquí serà on hem de fer les operacions dels mètodes com ara sumarà o restar, com també l'hi afegirem els noms i el tipus de retorn.
 
 ![Selecció_1365](https://user-images.githubusercontent.com/91250228/234501206-2dced255-0d18-49df-bc1b-2c52422fdcad.png)
 
@@ -34,7 +34,7 @@ Despres
 
 
 
-Una volta creada la exportem a Java
+Una volta creada l'exportem a Java, fen clic en codi, assistent de generació de codi, seleccionem el llenguatge i exportem.
 
 
 ![Selecció_1404](https://user-images.githubusercontent.com/91250228/235683567-85bf88f0-d338-4d30-9dde-1e54f1d3e7c3.png)
@@ -43,7 +43,7 @@ Una volta creada la exportem a Java
 ![Selecció_1405](https://user-images.githubusercontent.com/91250228/235683625-c7b1c0db-4bbb-4145-9bc1-b0c9e6f97a0e.png)
 
 
-Aqui deixem el Main i la Classe Calculadora
+Aquí deixem el Main i la Classe Calculadora
 
 ![Selecció_1406](https://user-images.githubusercontent.com/91250228/235683641-203a97c3-b79e-47d0-9572-143efd4132cf.png)
 
@@ -53,19 +53,19 @@ Aqui deixem el Main i la Classe Calculadora
 
 
 
-arregem els arxius .Java al IDE i ens descarregem el JDK que per defecte no el troba
+Agregem els arxius .Java a l'IDE i ens descarreguem el JDK, ja que per defecte no el troba
 
 
 ![Selecció_1408](https://user-images.githubusercontent.com/91250228/235684490-a8d1418c-4bac-44b8-b8a4-09f06c52b8e6.png)
 
 
-I a funcionar en la cual cosa funciona directament en java el programa sols ens descargem el JDK 18 en el meu cas i descarregar el Scaner i a funciona
+I a funcionar en la qual cosa funciona directament en Java el programa sols ens descarreguem el JDK 18 en el meu cas i fem un import del Scanner i a funcionar
 
 ![Selecció_1409](https://user-images.githubusercontent.com/91250228/235684718-45117878-597b-4439-a36b-a2112bb5b94e.png)
 
 
 
-Per ferho amb Pyton farem el magteix pero Posant Pyton
+Per fer-ho amb Python farem el mateix però Posant Python en la manera de transformar el codi
 
 
 ![Selecció_1410](https://user-images.githubusercontent.com/91250228/235686951-a8326d61-a856-43ed-8f22-fa8c107cf405.png)
@@ -74,7 +74,7 @@ Per ferho amb Pyton farem el magteix pero Posant Pyton
 
 
 
-**Batalles
+# Batalles
 
 El primer sera trobar les classes i atributs que te aquest joc mirant la imatge pasada
 
