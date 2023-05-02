@@ -74,6 +74,52 @@ Per ferho amb Pyton farem el magteix pero Posant Pyton
 
 **Batalles
 
+El primer sera trobar les classes i atributs que te aquest joc mirant la imatge pasada
+
+
+![Selecció_1412](https://user-images.githubusercontent.com/91250228/235709465-960e378b-2e24-47e9-945d-380e1707e4e1.png)
+
+Ara avent mirat la imatge i avent provat el joc el que podem fer es acomensar a crear les clases i metodes
+
+Ens desplacem a Umbrelo i fem clic a Classe
+
+![Selecció_1413](https://user-images.githubusercontent.com/91250228/235710904-32c714f4-cc97-4d67-aea5-7756da879694.png)
+
+
+Fem deble clic i a general l'hi camviem el nom de la clsse, despres ens desplacem a atributs i afegi els que nosaltres em detectat que ho ha de aver
+
+![Selecció_1416](https://user-images.githubusercontent.com/91250228/235712111-6c4ae140-4193-4d3e-8226-e18d1df153ae.png)
+
+
+Seguida ment anem a Oprecions i fem clic en operacio nova i afejim els metodes que he, detectat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
