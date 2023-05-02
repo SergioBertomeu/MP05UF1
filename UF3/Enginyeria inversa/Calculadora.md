@@ -81,19 +81,19 @@ El primer sera trobar les classes i atributs que te aquest joc mirant la imatge 
 
 ![Selecció_1412](https://user-images.githubusercontent.com/91250228/235709465-960e378b-2e24-47e9-945d-380e1707e4e1.png)
 
-Ara avent mirat la imatge i avent provat el joc el que podem fer es acomensar a crear les clases i metodes
+Ara a vent mirat la imatge i a vent provat el joc el que podem fer és començar a crear les classes i mètodes
 
 Ens desplacem a Umbrelo i fem clic a Classe
 
 ![Selecció_1413](https://user-images.githubusercontent.com/91250228/235710904-32c714f4-cc97-4d67-aea5-7756da879694.png)
 
 
-Fem deble clic i a general l'hi camviem el nom de la clsse, despres ens desplacem a atributs i afegi els que nosaltres em detectat que ho ha de aver
+Fem doble clic i a general l'hi canviem el nom de la classe, després ens desplacem a atributs i afegim els que nosaltres hem detectat que ha d'haver.
 
 ![Selecció_1416](https://user-images.githubusercontent.com/91250228/235712111-6c4ae140-4193-4d3e-8226-e18d1df153ae.png)
 
 
-Seguida ment anem a Oprecions i fem clic en operacio nova i afejim els metodes que he, detectat
+Seguidament, anem a Oprecions i fem clic en operació nova i afegim els mètodes que hem detectat
 
 ![Selecció_1417](https://user-images.githubusercontent.com/91250228/235717800-0d58ac8f-34bc-475e-a9a6-5cf72dbd3291.png)
 
@@ -103,14 +103,14 @@ Seguida ment anem a Oprecions i fem clic en operacio nova i afejim els metodes q
 ![Selecció_1419](https://user-images.githubusercontent.com/91250228/235717893-a1c36eb3-a283-4fca-bb91-15b417351e62.png)
 
 
-I ja tendriem els metrodes i clases fet
+I ja tendríem els mètodes i classes fet
 
 
 ![Selecció_1420](https://user-images.githubusercontent.com/91250228/235717924-c0f295ee-9a03-4444-81c6-6745b32bcf7a.png)
 
 
 
-Ara es l'hore de explortaro a codi Python
+Ara és l'hora d'exportar-ho a codi Python
 
 
 ![Selecció_1404](https://user-images.githubusercontent.com/91250228/235721262-dfe0e598-4315-4df2-9087-2b833e7dadda.png)
@@ -129,13 +129,13 @@ Ara es l'hore de explortaro a codi Python
 
 
 
-Aixo seria el siagrama de cas d'ús:
+Això seria el diagrama de cas d'ús:
 
 
 ![Selecció_1424](https://user-images.githubusercontent.com/91250228/235730168-d1313405-f43a-4f6f-82fa-d936d8477aa7.png)
 
 
-I aqui tendriem el de diagrama de seqüència:
+I aquí tendríem el de diagrama de seqüència:
 
 
 
